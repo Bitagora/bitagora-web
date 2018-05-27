@@ -39,7 +39,7 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:#267CB9;
+  color:#267CB9 !important;
   text-decoration:none;
 }
 
@@ -245,10 +245,6 @@ footer {
     border-width:1px 0;
     padding:20px 0;
     margin:0 0 20px;
-  }
-
-  section a {
-   color: #000 !important; 
   }
   
   header a small {
