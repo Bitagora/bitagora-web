@@ -2,4 +2,4 @@ title: Bitagora web
 logo: /assets/img/bitagora-full-logo.png
 description: Bitagora web page at GitHub
 google_analytics:
-theme: 
+theme: jekyll-theme-minimal
