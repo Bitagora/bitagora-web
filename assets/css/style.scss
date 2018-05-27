@@ -3,8 +3,10 @@
 
 @import "jekyll-theme-minimal";
 
-header {
-  background-color: #667db6;
-  width: 100hv;
-  height: 100hv;
+.wrapper {
+ background-color: #667db6; 
+}
+
+section {
+  background-color: #ffffff;
 }
