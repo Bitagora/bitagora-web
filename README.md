@@ -2,7 +2,7 @@
 ## Bitagora empowers citizens like you to vote on issues you care about
 
 ### Confidential
-Voters cast their vote anonymously and their identity is protected by cryptography. No private information is made public when voting.
+Voters cast their vote anonymously and their identity is protected by cryptography. No private information is stored in servers or made public when voting.
 
 ### Reliable
 Votes are signed and recorded in a public ledger. They cannot be tampered or modified by anyone. The system ensures that each voter only votes once in any given election.
