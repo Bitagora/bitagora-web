@@ -37,6 +37,6 @@ layout: default
 6. When uninstalling the validator node, users will effectively remove all files and data related with the ledger and peer-to-peer network. Thereafter, their IP will no longer be discoverable by other nodes in the network.
 
 ### 5. Contact
-1.	If you have any queries regarding this policy, you can contact Bitagora by email at mail@bitagora.cc.
+1.	If you have any queries regarding this policy, you can contact Bitagora by email at [mail@bitagora.cc](mailto:mail@bitagora.cc).
 
 [back](./)
