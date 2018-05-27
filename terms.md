@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# Terms of service
-
 ## Terms of service
 
 Bitagora Booth and Bitagora Validator software are provided free of charge.
@@ -13,7 +11,7 @@ The following Terms and Conditions (“Terms”) govern the use of the Bitagora 
 
 The user acknowledges the following serious risks to any use the Bitagora Platform and expressly agrees to neither hold Bitagora or the Bitagora Team liable should any of the following risks occur:
 
-### Risk of Regulatory Actions in One or More Jurisdictions"
+### Risk of Regulatory Actions in One or More Jurisdictions
 The Bitagora Platform could be impacted by one or more regulatory inquiries or regulatory actions, which could impede or limit the ability of the Bitagora Platform to continue to operate, or which could impede or limit the ability of a user to use the Bitagora Platform in one way or another.
 
 ### Risk of Alternative, Unofficial Bitagora Networks
@@ -33,10 +31,12 @@ Cryptography is an art, not a science. And the state of the art can advance over
 
 ### Risk of Network Attacks
 As with other applications based on cryptographic technology, the blockchain used for the Bitagora Platform is susceptible to mining attacks, including but not limited to:
+
 - Double-spend attacks
 - Majority mining power attacks,
 - Selfish-mining attacks,
 - Race condition attacks.
+
 Any successful attacks present a risk to the Bitagora Platform, expected proper execution and sequencing of voting transactions, and expected proper execution and sequencing of poll computations. Despite the efforts of the Bitagora Team, known or novel mining attacks may be successful.
 
 ### Risk of Rapid Adoption and Increased Demand
@@ -53,6 +53,7 @@ We recommend any groups handling large or important polls using the Bitagora Pla
 
 ### Force Majeure
 Bitagora is finally not liable for:
+
 - Unavoidable casualty
 - Delays in delivery of materials
 - Embargoes
