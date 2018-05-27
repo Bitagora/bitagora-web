@@ -5,14 +5,6 @@ $theme-primary:    #E9D057;
 $theme-secondary:  #667db6;
 $theme-tertiary:   #0082c8;
 
-@mixin gradient-horizontal($start-color: #555, $end-color: #333, $start-percent: 0%, $end-percent: 100%) {
-  background-image: -webkit-linear-gradient(left, $start-color $start-percent, $end-color $end-percent); // Safari 5.1-6, Chrome 10+
-  background-image: -o-linear-gradient(left, $start-color $start-percent, $end-color $end-percent); // Opera 12
-  background-image: linear-gradient(to right, $start-color $start-percent, $end-color $end-percent); // Standard, IE10, Firefox 16+, Opera 12.10+, Safari 7+, Chrome 26+
-  background-repeat: repeat-x;
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#{ie-hex-str($start-color)}', endColorstr='#{ie-hex-str($end-color)}', GradientType=1); // IE9 and down
-}
-
 body {
   padding: 0px;
   font: 14px/1.5 "Lato", "Catamaran", "Muli", Helvetica, Arial, sans-serif;
@@ -127,8 +119,8 @@ header {
   left:0;
   margin: 0 !important;
   -webkit-font-smoothing:subpixel-antialiased;
- 
-  background: gradient-horizontal($theme-secondary, $theme-tertiary, 0%, 100%);
+  background-image: url('{{ site.baseurl }}/assets/img/bg-pattern.png');
+  background-color: $theme-secondary;
   /*
   background: image-url('/assets/img/bg-pattern.png'), $theme-secondary;
   background: image-url('/assets/img/bg-pattern.png'), -webkit-linear-gradient(to left, $theme-secondary, $theme-tertiary);
