@@ -120,7 +120,7 @@ header {
   margin: 0 !important;
   -webkit-font-smoothing:subpixel-antialiased;
   background-image: url('{{ site.baseurl }}/assets/img/bg-pattern.png');
-  background-color: $theme-secondary;
+  background: linear-gradient($theme-secondary, $theme-tertiary);
   /*
   background: image-url('/assets/img/bg-pattern.png'), $theme-secondary;
   background: image-url('/assets/img/bg-pattern.png'), -webkit-linear-gradient(to left, $theme-secondary, $theme-tertiary);
