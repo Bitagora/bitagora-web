@@ -3,7 +3,7 @@
 
 body {
   background-color: #fff;
-  padding:0px;
+  padding: 0px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#727272;
   font-weight:400;
@@ -106,6 +106,8 @@ img {
 
 header {
   width:270px;
+  background-color: #667db6; 
+  padding: 50px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -271,10 +273,6 @@ footer {
   }
 }
 
-header {
- background-color: #667db6; 
- margin: 0;
- padding: 0;
-}
+
 
 
