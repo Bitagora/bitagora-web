@@ -10,12 +10,7 @@ body {
   font: 14px/1.5 "Lato", "Catamaran", "Muli", Helvetica, Arial, sans-serif;
   color:#727272;
   font-weight:400;
-  background-color: $theme-secondary;
-  /*
-  background: image-url('/assets/img/bg-pattern.png'), $theme-secondary;
-  background: image-url('/assets/img/bg-pattern.png'), -webkit-linear-gradient(to left, $theme-secondary, $theme-tertiary);
-  background: image-url('/assets/img/bg-pattern.png'), linear-gradient(to left, $theme-secondary, $theme-tertiary);
-  */
+  background-color: #fff;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -123,6 +118,12 @@ header {
   left:0;
   margin: 0 !important;
   -webkit-font-smoothing:subpixel-antialiased;
+  background-color: $theme-secondary;
+  /*
+  background: image-url('/assets/img/bg-pattern.png'), $theme-secondary;
+  background: image-url('/assets/img/bg-pattern.png'), -webkit-linear-gradient(to left, $theme-secondary, $theme-tertiary);
+  background: image-url('/assets/img/bg-pattern.png'), linear-gradient(to left, $theme-secondary, $theme-tertiary);
+  */
 }
 
 header ul {
