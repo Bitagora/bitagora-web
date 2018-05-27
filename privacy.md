@@ -29,4 +29,3 @@ layout: default
 4. Contact
 4.1	You can contact Bitagora by email at mail@bitagora.cc
 
-[back](./)
