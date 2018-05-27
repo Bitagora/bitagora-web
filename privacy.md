@@ -20,7 +20,7 @@ layout: default
 11. By providing your personal data to Bitagora for registration purposes, you are acknowledging and consenting to this privacy policy.
 
 ### 2. Cookies
-1. Bitagora website and its mobile or web booth applications do not use any cookies.
+1. Bitagora website and Bitagora's mobile or web booth applications do not use any cookies.
 
 ### 3. Data stored locally
 1.	Bitagora's web and mobile booths client-based applications run on your device and use local storage to store information about your registration and ballot.
