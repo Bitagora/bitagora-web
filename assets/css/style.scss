@@ -119,7 +119,7 @@ header {
   left:0;
   margin: 0 !important;
   -webkit-font-smoothing:subpixel-antialiased;
-  background-color: $theme-secondary;
+  background-color: linear-gradient(to left, $theme-secondary, $theme-tertiary);
   /*
   background: image-url('/assets/img/bg-pattern.png'), $theme-secondary;
   background: image-url('/assets/img/bg-pattern.png'), -webkit-linear-gradient(to left, $theme-secondary, $theme-tertiary);
@@ -127,7 +127,7 @@ header {
   */
 }
 
-header p, h1, h2, h3, h4, h5, h6 {
+header p, h1, h2, h3, h4, h5, h6,a {
  color: #fff; 
 }
 
