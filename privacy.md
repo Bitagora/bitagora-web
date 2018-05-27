@@ -28,7 +28,13 @@ layout: default
 3. You can delete the information stored in your device at your will. When you uninstall the web or mobile booth, this information is automatically deleted from your device.
 4.	When using the web or mobile booths, blocking local storage will disable the application's functionality.
 
-### 4. Contact
+### 4. Validator nodes
+1.	Users who wish to install and run Bitagora's validator node software on their own machine are willingly participating in a peer-to-peer network under their sole responsibility, in accordance with Bitagora's [terms of service](./terms.md).
+2. All the software required to install and run a validator node is open-source and can be reviewed in the [Bitagora repo](https://github.com/Bitagora/bitagora-node).
+3. Once installed, validator nodes make their IP known to other nodes for the purpose of peering and consensus building using the PoET protocol adapted from the [Sawtooth-Hyperledger project](https://github.com/hyperledger/sawtooth-core). No other private information from the node is broadcasted to the network during peer-to-peer interaction. 
+4. Nodes are accessible to other peers and clients through selected open ports. These ports should be made accessible by the user for the node to be fully functional.
+
+### 5. Contact
 1.	If you have any queries regarding this policy, you can contact Bitagora by email at mail@bitagora.cc.
 
 [back](./)
