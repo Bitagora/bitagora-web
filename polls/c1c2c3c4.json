@@ -26,7 +26,7 @@
       "state":"ES",
       "pattern":"ESP_id_pattern.txt",
       "language":"spa",
-      "characters":"\u003cABCDEFGHIJKLMNOPQRSTUVWXYZÑ1234567890"
+      "characters":">ABCDEFGHIJKLMNOPQRSTUVWXYZÑ1234567890"
     },
   "registerServer":"http://195.140.215.253/",
   "nodeSeed": ["195.140.215.253"],
