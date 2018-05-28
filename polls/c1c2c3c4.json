@@ -28,7 +28,8 @@
       "language":"spa",
       "characters":"\u003cABCDEFGHIJKLMNOPQRSTUVWXYZÑ1234567890"
     },
-  "apiHttp":"https://bitagora.cc",
+  "registerServer":"http://195.140.215.253/",
+  "nodeSeed": ["195.140.215.253"],
   "locales": ["es","ca","eu","ga","en"],
   "views":
     {
