@@ -13,5 +13,57 @@
           "01": "Bbbbbbb"
         },
       "approval":""
+    },
+,
+  "title":"Consulta sobre algo",
+  "country":"ES",
+  "sponsor":
+    {
+      "name":"Alguien",
+      "email":"mail@email.com"
+    },
+  "identification":
+    {
+      "state":"ES",
+      "pattern":"ESP_id_pattern.txt",
+      "language":"spa",
+      "characters":"\u003cABCDEFGHIJKLMNOPQRSTUVWXYZÑ1234567890"
+    },
+  "apiHttp":"https://bitagora.cc",
+  "locales": ["es","ca","eu","ga","en"],
+  "views":
+    {
+      "es":
+        {
+          "about":
+            {
+              "title": "Referéndum sobre Algo",
+              "dates": 
+                {
+                  "from": {"day":"15", "month": "Sep", "year": "2018"},
+                  "to": {"day":"15", "month":"Oct","year":"2018"}
+                },
+              "requirements": { "values": ["Eres mayor de 18 años","Tienes la nacionalidad española","Tienes el DNI en vigor"] }
+            },
+          "register": 
+            {
+              "sampleLink":"assets/img/dni-sample.svg",
+              "instructions": { "specific": "Introduce las tres líneas del código que aparece en la parte trasera de tu DNI, sin olvidar ningún carácter." },
+              "inputs": 
+                [
+                  { "msg":"Primera línea de datos del DNI","length":"30" },
+                  { "msg":"Segunda línea de datos del DNI","length":"30" },
+                  { "msg":"Tercera línea de datos del DNI","length":"30" }
+                ]
+            },
+          "vote":
+            {
+              "question": "¿Quieres que algo?",
+              "options": [ "Aaaaaaaa", "Bbbbbbb" ]
+            },
+          "check":
+            {
+            }
+        }
     }
 }
