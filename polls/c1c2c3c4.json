@@ -58,8 +58,8 @@
             },
           "vote":
             {
-              "question": "¿Quieres que algo?",
-              "options": [ "Aaaaaaaa", "Bbbbbbb" ]
+              "question": "¿Qué opción prefieres?",
+              "options": [ "Primera", "Segunda" ]
             },
           "check":
             {
