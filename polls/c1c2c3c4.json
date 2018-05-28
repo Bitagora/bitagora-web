@@ -37,6 +37,7 @@
           "about":
             {
               "title": "Referéndum sobre la libertad 2018",
+              "description": "Consulta de prueba para comprobar el sistema antes del lanzamiento",
               "dates": 
                 {
                   "from": {"day":"1", "month": "Sep", "year": "2018"},
@@ -69,6 +70,7 @@
           "about":
             {
               "title": "Referèndum sobre la llibertat 2018",
+              "description": "Consulta de prova per comprovar el sistema abans del llançament",
               "dates": 
                 {
                   "from": {"day":"1", "month": "Set", "year": "2018"},
