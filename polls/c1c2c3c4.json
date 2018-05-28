@@ -39,8 +39,8 @@
               "title": "Referéndum sobre Algo",
               "dates": 
                 {
-                  "from": {"day":"15", "month": "Sep", "year": "2018"},
-                  "to": {"day":"15", "month":"Oct","year":"2018"}
+                  "from": {"day":"1", "month": "Sep", "year": "2018"},
+                  "to": {"day":"1", "month":"Dic","year":"2018"}
                 },
               "requirements": { "values": ["Eres mayor de 18 años","Tienes la nacionalidad española","Tienes el DNI en vigor"] }
             },
