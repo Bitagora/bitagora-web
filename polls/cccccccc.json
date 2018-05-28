@@ -9,7 +9,11 @@
       "ends":"1535562000000",
       "question":"¿Quieres que algo?",
       "options":"aaaaaaaaa0bbbbbbbbb1",
-      "values":"{ "00": "Aaaaaaaaaa", "01": "Bbbbbbb"}",
+      "values": 
+        { 
+          "00": "Aaaaaaaaaa", 
+          "01": "Bbbbbbb"
+        },
       "approval":""
      },
      "title":"Consulta sobre algo",
