@@ -5,20 +5,19 @@
       "certkey":"023148127df19636dff89899479e66f4611d5ebf47035e54b4002804fc82af0a04",
       "starts":"1535734800000",
       "ends":"1543597200000",
-      "question":"¿Qué opción prefieres?",
-      "options":"primeraaa0segundaaa1",
+      "question":"¿Quieres que haya tiranía o libertad?",
+      "options":"tiraniaaa0libertadd1",
       "values": 
         { 
-          "00": "Primera", 
-          "01": "Segunda"
+          "00": "Tiranía", 
+          "01": "Libertad"
         },
       "approval":"3044022045619217750388152562d71ecd1263ef9e6bca6d6ba31f2938bac3e88b94f1bd0220778c4ab720a24a093ee0da15d8773d2c5bd068782feff062c09897eb4936e918"
     },
-  "title":"Consulta sobre algo",
   "country":"ES",
   "sponsor":
     {
-      "name":"Alguien",
+      "name":"Piratas",
       "email":"mail@email.com"
     },
   "identification":
@@ -37,18 +36,18 @@
         {
           "about":
             {
-              "title": "Referéndum sobre Algo",
+              "title": "Referéndum sobre la libertad",
               "dates": 
                 {
                   "from": {"day":"1", "month": "Sep", "year": "2018"},
                   "to": {"day":"1", "month":"Dic","year":"2018"}
                 },
-              "requirements": { "values": ["Eres mayor de 18 años","Tienes la nacionalidad española","Tienes el DNI en vigor"] }
+              "requirements": { "values": ["al menos 18 años","nacionalidad española","DNI en vigor"] }
             },
           "register": 
             {
               "sampleLink":"assets/img/dni-sample.svg",
-              "instructions": { "specific": "Introduce las tres líneas del código que aparece en la parte trasera de tu DNI, sin olvidar ningún carácter." },
+              "instructions": { "specific": "Introduce las tres líneas del código que aparece en la parte trasera de tu DNI, sin olvidar ningún carácter. También puedes tomar una fotografía con tu móvil." },
               "inputs": 
                 [
                   { "msg":"Primera línea de datos del DNI","length":"30" },
@@ -58,8 +57,40 @@
             },
           "vote":
             {
-              "question": "¿Qué opción prefieres?",
-              "options": [ "Primera", "Segunda" ]
+              "question": "¿Quieres que haya tiranía o libertad?",
+              "options": [ "Tiranía", "Libertad" ]
+            },
+          "check":
+            {
+            }
+        },
+       "ca":
+        {
+          "about":
+            {
+              "title": "Referèndum sobre la llibertat",
+              "dates": 
+                {
+                  "from": {"day":"1", "month": "Set", "year": "2018"},
+                  "to": {"day":"1", "month":"Des","year":"2018"}
+                },
+              "requirements": { "values": ["al menys 18 anys","nacionalitat espanyola","DNI en vigor"] }
+            },
+          "register": 
+            {
+              "sampleLink":"assets/img/dni-sample.svg",
+              "instructions": { "specific": "Introdueix les tres línies del codi que apareix a la part del darrere del tu DNI, sense oblidar cap caràcter. També pots prendre una fotografia amb el teu mòbil." },
+              "inputs": 
+                [
+                  { "msg":"Primera línia de dades del DNI","length":"30" },
+                  { "msg":"Segona línia de dades del DNI","length":"30" },
+                  { "msg":"Tercera línia de dades del DNI","length":"30" }
+                ]
+            },
+          "vote":
+            {
+              "question": "Vols que hi hagi tirania o llibertat?",
+              "options": [ "Tirania", "Llibertat" ]
             },
           "check":
             {
