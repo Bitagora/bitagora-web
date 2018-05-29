@@ -1,0 +1,188 @@
+{
+			"front": {
+				"header": "Urna virtual de Bitagora",
+				"prompt": "Entra un codi",
+				"submit": "Enviar",
+				"return": "Tornar enrere",
+				"knowMore": "Vols saber-ne més?",
+				"tutorial": "Tutorial"				
+			},
+			"about": {
+				"header": "Benvingut a Bitagora",
+				"dates": {
+					"heading": "Dates"
+				},
+				"requirements": {
+					"heading": "Pots participar si tens"
+				},
+				"sponsor": {
+					"heading": "Consulta promoguda per"
+				},
+				"state": {
+					"heading": "",
+					"register": {
+						"true": "Ja t'has registrat",
+						"false": "Encara no t'has registrat"
+					},
+					"vote": {
+						"true": "Ja has votat",
+						"false": "Encara no has votat"
+					},
+					"key": "La teva clau privada és"
+				},
+				"change": {
+					"context": "Escollir una altra consulta",
+					"locale": "Canviar d'idioma"
+				}	
+			},
+			"register": {
+				"header": "Registra't",
+				"action": "Registrar",
+				"instructions": {
+					"general": "Les teves dades seran enviades xifrades a un servidor i es processaran de manera totalment automatitzada per obtenir una clau personal. Un cop processada, aquesta informació no es guarda en cap base de dades. Quan envies la informació, estàs acceptant les ",
+					"terms":"condicions d'ús",
+					"and": "i",
+					"privacy": "privacitat"
+				},
+				"picture": {
+					"take": "Fer una nova foto",
+					"read": "Usar una foto guardada",
+					"cancel": "Cancel·lar",
+					"reading": "Llegint el document. Un moment, sisplau...",
+					"unprocessable": "La foto no ha pogut ser processada. Intenta-ho de nou o entra el codi a mà."
+				},
+				"modals": {
+					"alreadyVoted": {
+						"title": "Ja estàs registrat i has votat. Pots comprovar el teu vot o registrar un altre usuari diferent (es borraran les dades del registre anterior).",
+						"buttons": {
+							"checkVote": "Comprovar el meu vot",
+							"registerAgain": "Registrar noves dades",
+							"cancel": "Cancel·lar"
+						}
+					},
+					"alreadyRegistered": {
+						"title": "Ja estàs registrat, però encara no has votat. Pots anar a votar o tornar a registrar-te (es borrarà l'anterior registre).",
+						"buttons": {
+							"checkVote": "Comprovar el meu vot",
+							"registerAgain": "Registrar-me un altre cop",
+							"cancel": "Cancel·lar"
+						}	
+					},
+					"processing": {
+						"title": "Un moment, sisplau. Estem processant les dades.",
+						"error": "Error en processar les dades. Assegura't que la informació introduïda és correcta i torna a provar-ho."
+					},
+					"result": {
+						"title": "S'ha generat una clau privada de vot. Aquesta clau es gravarà al teu dispositiu. Per més seguretat, escriu-la tamé en un lloc segur. Si vols, ja pots votar.",
+						"buttons": {
+							"vote": "Votar",
+							"cancel": "Cancel·lar"
+						}
+					},
+					"repeated": {
+						"title": "Ja existeix un voto emès per aquest mateix usuari. No pots votar dos cops.",
+						"buttons": {
+							"checkVote": "'Comprovar el vot",
+							"cancel": "Cancel·lar"
+						}
+					},
+					"unprocessable": {
+						"title": "Les dades introduïdes no són correctes o no corresponen a un document vàlid.",
+						"buttons": {
+							"tryAgain": "Volver a intentarlo",
+							"cancel": "Cancelar"
+						}
+					} 
+				}
+			},
+			"vote": {
+				"header": "Emet el teu vot",
+				"modals": {
+					"notRegistered": {
+						"title": "Necesitas registrarte para poder votar.",
+						"buttons": {
+							"understood": "Entendido"
+						}
+					},
+					"alreadyVoted": {
+						"title": "Ya has votado. Puedes comprobar tu voto o iniciar un nuevo registro (se borrará el anterior).",
+						"buttons": {
+							"checkVote": "Comprobar mi voto",
+							"registerAgain": "Registrarme otra vez",
+							"cancel": "Cancelar"
+						}
+					},
+					"confirmVote": {
+						"title": { 
+							"first" : "Has votado ",
+							"second": ". Una vez depositado el voto en el sistema, no puede modificarse ni repetirse. Confirma que quieres depositar tu voto."
+						},
+						"buttons": {
+							"confirm": "Confirmar",
+							"cancel": "Cancelar"
+						}
+					},
+					"processing": {
+						"title": "Un momento, por favor. Estamos procesando el voto."
+					},
+					"error": {
+						"title": "Error al procesar los datos. Inténtalo de nuevo."
+					}
+				}
+			},
+			"check": {
+				"header": "Comprueba tu voto",
+				"form": {
+					"message": "No hay ninguna clave registrada en este dispositivo. Para obtener una clave, debes registrarte. Si quieres comprobar el estado de un voto ya emitido, introduce la clave privada.",
+					"inputs": {
+						"privkey": {
+							"msg": "Entra la clave aquí."
+						}
+					},
+					"action": "Comprobar"
+				},
+				"state": {
+					"title": "Estado del voto",
+					"values": {
+						"0": "Voto pendiente",
+						"1": "Voto confirmado",
+						"9": "El voto no se ha localizado"
+					}
+				},
+				"notstarted": "Esta votación todavía no ha empezado. Por favor, pruebe más tarde.",
+				"results": {
+					"final": "Resultados finales",
+					"temporary": "Resultados provisionales",
+					"votes": "votos"
+				},
+				"modals": {
+					"processing": {
+						"title": "Un momento, por favor. Estamos procesando los datos.",
+						"error": "Error al intentar obtener los datos. Por favor, inténtalo de nuevo."
+					}
+				}
+			},
+			"tutorial": {
+				"first": {
+					"title": "Bienvenido a la urna virtual",
+					"text": "Bitagora  es una aplicación de blockchain para votar de forma anónima, segura y fiable en una consulta democrática organizada por ciudadanos como tú. Desde esta aplicación, podrás obtener una clave secreta y emitir tu voto. Luego la red de interventores de Bitagora lo incluirá en un registro público y auditable."
+				},
+				"second": {
+					"title": "¿Es mi voto secreto?",
+					"text": "Tu voto no incluye ningún dato que pueda permitir identificarte personalmente. Los datos que envias al registrarte están cifrados y no se almacenan en ningún servidor. Bitagora se limita a generar de manera automática una clave criptográfica que te permite votar de forma totalmente confidencial."
+				},						
+				"third": {
+					"title": "¿Es mi voto seguro?",
+					"text": "Gracias a la criptografía, podemos garantizar que tu voto sea irrepetible y no pueda ser modificado por nadie. Solo puedes votar una vez en una misma elección. La red de interventores comprobará la validez del voto antes de inscribirlo en el registro público."
+				},								
+				"fourth": {
+					"title": "¿Cómo puedo ver mi voto?",
+					"text": "Con tu clave secreta, podrás comprobar el estado de tu voto. Los votos pueden tardar entre 10 minutos y una hora en ser procesados por la red. Si tu voto no queda inscrito, puedes volver a votar. Pero una vez el voto esté inscrito en el registro público, no podrás votar de nuevo ni cambiar el voto."
+				},
+				"fifth": {
+					"title": "¿Cómo puedo saber más?",
+					"text": "Para obtener más información sobre el sistema de votación o unirte a la red de interventores, visita la página web de Bitagora:",
+					"web": "https://www.bitagora.cc"
+				}	
+			}
+		}
