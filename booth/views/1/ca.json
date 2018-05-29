@@ -186,9 +186,9 @@
 					"text": "Con tu clave secreta, podrás comprobar el estado de tu voto. Los votos pueden tardar entre 10 minutos y una hora en ser procesados por la red. Si tu voto no queda inscrito, puedes volver a votar. Pero una vez el voto esté inscrito en el registro público, no podrás votar de nuevo ni cambiar el voto."
 				},
 				"fifth": {
-					"title": "¿Cómo puedo saber más?",
-					"text": "Para obtener más información sobre el sistema de votación o unirte a la red de interventores, visita la página web de Bitagora:",
-					"web": "https://www.bitagora.cc"
+					"title": "Com puc saber-ne més?",
+					"text1": "Per consultar els resultats de la votació o unir-te a la xarxa d'interventors, visita la pàgina web:",
+					"text2": "Per obtenir més informació sobre el sistema de votació, pots visitar:"
 				}	
 			}
 		}
