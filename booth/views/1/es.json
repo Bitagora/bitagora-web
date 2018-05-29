@@ -39,7 +39,7 @@
 		"header": "Regístrate",
 		"action": "Registrar",
 		"instructions": {
-			"server": "Los datos serán enviados cifrados al servidor"
+			"server": "Los datos serán enviados cifrados al servidor",
 			"general": "El servidor procesará de manera totalmente automatizada tus datos para obtener una clave personal. Una vez procesada, el servidor no guardará esta información en ninguna base de datos. Al enviar la información, estás aceptando las ",
 			"terms":"condiciones de uso",
 			"and": "y",
