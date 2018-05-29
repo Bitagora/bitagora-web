@@ -39,7 +39,8 @@
 		"header": "Regístrate",
 		"action": "Registrar",
 		"instructions": {
-			"general": "Los datos serán enviados cifrados a un servidor y se procesarán de manera totalmente automatizada para obtener una clave personal. Una vez procesada, Bitagora no guardará esta información en ninguna base de datos. Al enviar la información, estás aceptando las ",
+			"server": "Los datos serán enviados cifrados al servidor"
+			"general": "El servidor procesará de manera totalmente automatizada tus datos para obtener una clave personal. Una vez procesada, el servidor no guardará esta información en ninguna base de datos. Al enviar la información, estás aceptando las ",
 			"terms":"condiciones de uso",
 			"and": "y",
 			"privacy": "privacidad"
