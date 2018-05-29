@@ -149,34 +149,39 @@
 				}
 			},
 			"check": {
-				"header": "Comprueba tu voto",
+				"header": "Comprova el teu vot",
 				"form": {
-					"message": "No hay ninguna clave registrada en este dispositivo. Para obtener una clave, debes registrarte. Si quieres comprobar el estado de un voto ya emitido, introduce la clave privada.",
+					"message": "No hi ha cap clau registrada en aquest dispositiu. Per obtenir una clau, has de registrar-te. Si vols comprovar l'estat d'un vot ja emés, introdueix la clau privada.",
 					"inputs": {
 						"privkey": {
-							"msg": "Entra la clave aquí."
+							"msg": "Entra la clau aquí."
 						}
 					},
-					"action": "Comprobar"
+					"action": "Comprovar"
 				},
 				"state": {
-					"title": "Estado del voto",
+					"title": "Estat del vot",
 					"values": {
-						"0": "Voto pendiente",
-						"1": "Voto confirmado",
-						"9": "El voto no se ha localizado"
+						"0": "Vot pendent",
+						"1": "Vot confirmat",
+						"9": "El vot no s'ha localitzat"
 					}
 				},
-				"notstarted": "Esta votación todavía no ha empezado. Por favor, pruebe más tarde.",
 				"results": {
-					"final": "Resultados finales",
-					"temporary": "Resultados provisionales",
-					"votes": "votos"
+					"final": "Resultats definitius",
+					"temporary": "Resultats provisionals",
+					"votes": "vots"
 				},
 				"modals": {
+					"notStarted": {
+						"title": "Aquesta consulta encara no ha començat. Només pots comprovar els resultats durant i després del període de votació.",
+						"buttons": {
+							"understood": "Entendido"
+						}
+					},
 					"processing": {
-						"title": "Un momento, por favor. Estamos procesando los datos.",
-						"error": "Error al intentar obtener los datos. Por favor, inténtalo de nuevo."
+						"title": "Un moment, sisplau. Estem processant les dades.",
+						"error": "Error en intentar obtenir les dades de la xarxa. Sisplau, intenta-ho més endavant."
 					}
 				}
 			},
