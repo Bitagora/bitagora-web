@@ -9,7 +9,7 @@
 			},
 			"about": {
 				"header": "Benvingut a Bitagora",
-				"state": {
+				"situation": {
 					"active": "Votació en curs",
 					"not-started": "La votació encara no ha començat",
 					"finished": "La votació ja ha finalitzat"
