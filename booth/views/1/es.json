@@ -58,6 +58,12 @@
 			"unprocessable": "La foto no ha podido ser procesada. Inténtalo de nuevo o entra el código a mano."
 		},
 		"modals": {
+			"notActive": {
+				"title": "Esta consulta no está activa. Solo puedes registrarte durante el período de votación.",
+				"buttons": {
+					"understood": "Entendido"
+				}
+			},
 			"alreadyVoted": {
 				"title": "Ya estás registrado y has votado. Puedes comprobar tu voto o registrar otro usuario diferente (se borrarán los datos del anterior registro).",
 				"buttons": {
@@ -104,6 +110,12 @@
 	"vote": {
 		"header": "Emite tu voto",
 		"modals": {
+			"notActive": {
+				"title": "Esta consulta no está activa. Solo puedes votar durante el período de votación.",
+				"buttons": {
+					"understood": "Entendido"
+				}
+			},
 			"notRegistered": {
 				"title": "Necesitas registrarte para poder votar.",
 				"buttons": {
