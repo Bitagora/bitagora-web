@@ -1,0 +1,188 @@
+{
+	"front": {
+		"header": "Urna virtual de Bitagora",
+		"prompt": "Entra un código",
+		"submit": "Enviar",
+		"return": "Volver atrás",
+		"knowMore": "¿Quieres saber más?",
+		"tutorial": "Tutorial"				
+	},
+	"about": {
+		"header": "Bienvenido a Bitagora",
+		"dates": {
+			"heading": "Fechas"
+		},
+		"requirements": {
+			"heading": "Puedes participar si tienes"
+		},
+		"sponsor": {
+			"heading": "Consulta promovida por"
+		},
+		"state": {
+			"heading": "",
+			"register": {
+				"true": "Ya te has registrado",
+				"false": "Todavía no te has registrado"
+			},
+			"vote": {
+				"true": "Ya has votado",
+				"false": "Todavía no has votado"
+			},
+			"key": "Tu clave privada es"
+		},
+		"change": {
+			"context": "Escoger otra elección",
+			"locale": "Cambiar idioma"
+		}	
+	},
+	"register": {
+		"header": "Regístrate",
+		"action": "Registrar",
+		"instructions": {
+			"general": "Los datos serán enviados cifrados a un servidor y se procesarán de manera totalmente automatizada para obtener una clave personal. Una vez procesada, Bitagora no guardará esta información en ninguna base de datos. Al enviar la información, estás aceptando las ",
+			"terms":"condiciones de uso",
+			"and": "y",
+			"privacy": "privacidad"
+		},
+		"picture": {
+			"take": "Hacer una nueva foto",
+			"read": "Usar una foto archivada",
+			"cancel": "Cancelar",
+			"reading": "Leyendo el documento. Un momento, por favor...",
+			"unprocessable": "La foto no ha podido ser procesada. Inténtalo de nuevo o entra el código a mano."
+		},
+		"modals": {
+			"alreadyVoted": {
+				"title": "Ya estás registrado y has votado. Puedes comprobar tu voto o registrar otro usuario diferente (se borrarán los datos del anterior registro).",
+				"buttons": {
+					"checkVote": "Comprobar mi voto",
+					"registerAgain": "Registrar nuevos datos",
+					"cancel": "Cancelar"
+				}
+			},
+			"alreadyRegistered": {
+				"title": "Ya estás registrado, pero aún no has votado. Puedes ir a votar o volver a registrarte (se borrará el anterior registro).",
+				"buttons": {
+					"checkVote": "Comprobar mi voto",
+					"registerAgain": "Registrarme otra vez",
+					"cancel": "Cancelar"
+				}	
+			},
+			"processing": {
+				"title": "Un momento, por favor. Estamos procesando los datos.",
+				"error": "Error al procesar los datos. Asegúrate de que la información introducida es correcta e inténtalo de nuevo."
+			},
+			"result": {
+				"title": "Se ha generado una clave privada de voto. Esta clave se grabará en tu dispositivo. Para más seguridad, anótala también en un lugar seguro. Si quieres, ya puedes votar.",
+				"buttons": {
+					"vote": "Votar",
+					"cancel": "Cancelar"
+				}
+			},
+			"repeated": {
+				"title": "Ya existe un voto emitido por este mismo usuario. No puedes votar dos veces.",
+				"buttons": {
+					"checkVote": "'Comprobar voto",
+					"cancel": "Cancelar"
+				}
+			},
+			"unprocessable": {
+				"title": "Los datos introducidos no son correctos o no corresponden a un documento válido. Asegúrate de introducir las tres líneas de la parte trasera del DNI, con todos los carácteres.",
+				"buttons": {
+					"tryAgain": "Volver a intentarlo",
+					"cancel": "Cancelar"
+				}
+			} 
+		}
+	},
+	"vote": {
+		"header": "Emite tu voto",
+		"modals": {
+			"notRegistered": {
+				"title": "Necesitas registrarte para poder votar.",
+				"buttons": {
+					"understood": "Entendido"
+				}
+			},
+			"alreadyVoted": {
+				"title": "Ya has votado. Puedes comprobar tu voto o iniciar un nuevo registro (se borrará el anterior).",
+				"buttons": {
+					"checkVote": "Comprobar mi voto",
+					"registerAgain": "Registrarme otra vez",
+					"cancel": "Cancelar"
+				}
+			},
+			"confirmVote": {
+				"title": { 
+					"first" : "Has votado ",
+					"second": ". Una vez depositado el voto en el sistema, no puede modificarse ni repetirse. Confirma que quieres depositar tu voto."
+				},
+				"buttons": {
+					"confirm": "Confirmar",
+					"cancel": "Cancelar"
+				}
+			},
+			"processing": {
+				"title": "Un momento, por favor. Estamos procesando el voto."
+			},
+			"error": {
+				"title": "Error al procesar los datos. Inténtalo de nuevo."
+			}
+		}
+	},
+	"check": {
+		"header": "Comprueba tu voto",
+		"form": {
+			"message": "No hay ninguna clave registrada en este dispositivo. Para obtener una clave, debes registrarte. Si quieres comprobar el estado de un voto ya emitido, introduce la clave privada.",
+			"inputs": {
+				"privkey": {
+					"msg": "Entra la clave aquí."
+				}
+			},
+			"action": "Comprobar"
+		},
+		"state": {
+			"title": "Estado del voto",
+			"values": {
+				"0": "Voto pendiente",
+  			"1": "Voto confirmado",
+				"9": "El voto no se ha localizado"
+			}
+		},
+		"notstarted": "Esta votación todavía no ha empezado. Por favor, pruebe más tarde.",
+		"results": {
+			"final": "Resultados finales",
+			"temporary": "Resultados provisionales",
+			"votes": "votos"
+		},
+		"modals": {
+			"processing": {
+				"title": "Un momento, por favor. Estamos procesando los datos.",
+				"error": "Error al intentar obtener los datos. Por favor, inténtalo de nuevo."
+			}
+		}
+	},
+	"tutorial": {
+		"first": {
+			"title": "Bienvenido a la urna virtual",
+			"text": "Bitagora  es una aplicación de blockchain para votar de forma anónima, segura y fiable en una consulta democrática organizada por ciudadanos como tú. Desde esta aplicación, podrás obtener una clave secreta y emitir tu voto. Luego la red de interventores de Bitagora lo incluirá en un registro público y auditable."
+		},
+		"second": {
+			"title": "¿Es mi voto secreto?",
+			"text": "Tu voto no incluye ningún dato que pueda permitir identificarte personalmente. Los datos que envias al registrarte están cifrados y no se almacenan en ningún servidor. Bitagora se limita a generar de manera automática una clave criptográfica que te permite votar de forma totalmente confidencial."
+		},						
+		"third": {
+			"title": "¿Es mi voto seguro?",
+			"text": "Gracias a la criptografía, podemos garantizar que tu voto sea irrepetible y no pueda ser modificado por nadie. Solo puedes votar una vez en una misma elección. La red de interventores comprobará la validez del voto antes de inscribirlo en el registro público."
+		},								
+		"fourth": {
+			"title": "¿Cómo puedo ver mi voto?",
+			"text": "Con tu clave secreta, podrás comprobar el estado de tu voto. Los votos pueden tardar entre 10 minutos y una hora en ser procesados por la red. Si tu voto no queda inscrito, puedes volver a votar. Pero una vez el voto esté inscrito en el registro público, no podrás votar de nuevo ni cambiar el voto."
+		},
+		"fifth": {
+			"title": "¿Cómo puedo saber más?",
+			"text": "Para obtener más información sobre el sistema de votación o unirte a la red de interventores, visita la página web de Bitagora:",
+			"web": "https://www.bitagora.cc"
+		}	
+	}
+}
