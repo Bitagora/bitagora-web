@@ -170,7 +170,8 @@
 		"results": {
 			"final": "Resultados finales",
 			"temporary": "Resultados provisionales",
-			"votes": "votos"
+			"votes": "votos",
+			"votesCast": "Votos emitidos"
 		},
 		"modals": {
 			"notStarted": {
