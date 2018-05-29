@@ -9,6 +9,11 @@
 	},
 	"about": {
 		"header": "Bienvenido a Bitagora",
+		"state": {
+			"active": "Votación en curso",
+			"not-started": "La votación todavía no ha empezado",
+			"finished": "La votación ya ha finalizado"
+		},
 		"dates": {
 			"heading": "Fechas"
 		},
