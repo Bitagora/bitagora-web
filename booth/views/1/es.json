@@ -167,13 +167,18 @@
 				"9": "El voto no se ha localizado"
 			}
 		},
-		"notstarted": "Esta votación todavía no ha empezado. Por favor, pruebe más tarde.",
 		"results": {
 			"final": "Resultados finales",
 			"temporary": "Resultados provisionales",
 			"votes": "votos"
 		},
 		"modals": {
+			"notStarted": {
+				"title": "Esta consulta no ha empezado todavía.  Solo puedes consultar los resultados durante y después del período de votación.",
+				"buttons": {
+					"understood": "Entendido"
+				}
+			},
 			"processing": {
 				"title": "Un momento, por favor. Estamos procesando los datos.",
 				"error": "Error al intentar obtener los datos. Por favor, inténtalo de nuevo."
