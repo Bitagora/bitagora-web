@@ -9,6 +9,11 @@
 			},
 			"about": {
 				"header": "Benvingut a Bitagora",
+				"state": {
+					"active": "Votació en curs",
+					"not-started": "La votació encara no ha començat",
+					"finished": "La votació ja ha finalitzat"
+				},
 				"dates": {
 					"heading": "Dates"
 				},
@@ -39,7 +44,8 @@
 				"header": "Registra't",
 				"action": "Registrar",
 				"instructions": {
-					"general": "Les teves dades seran enviades xifrades a un servidor i es processaran de manera totalment automatitzada per obtenir una clau personal. Un cop processada, aquesta informació no es guarda en cap base de dades. Quan envies la informació, estàs acceptant les ",
+					"server": "Les teves dades seran enviades xifrades al servidor",
+					"general": "El servidor les processarà de manera totalment automatitzada per obtenir una clau personal. Un cop processada, aquesta informació no es guarda en cap base de dades. Enviant la informació, estàs acceptant les ",
 					"terms":"condicions d'ús",
 					"and": "i",
 					"privacy": "privacitat"
