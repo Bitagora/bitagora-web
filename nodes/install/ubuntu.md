@@ -1,3 +1,6 @@
+---
+layout: default
+---
 ## Ubuntu installation
 
 ***When trying these instructions, remember to use 'sudo' before commands if your user doesn't 
