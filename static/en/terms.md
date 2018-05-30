@@ -1,3 +1,6 @@
+---
+layout: default
+---
 ## Terms of service
 
 Bitagora Booth and Bitagora Validator software are provided free of charge.
