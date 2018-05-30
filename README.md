@@ -19,7 +19,7 @@ Help us to support democracy by installing a Bitagora validator node. Validator 
 [Installation and usage instructions](nodes/install/validator.md)
 
 ## Terms
-Read our [terms of service](static/en/terms.md)
+Read our [terms of service](static/en/terms.md).
 
 ## Privacy
-Read our [privacy policy](static/en/privacy.md)
+Read our [privacy policy](static/en/privacy.md).
