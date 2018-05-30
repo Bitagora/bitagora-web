@@ -102,5 +102,5 @@ To uninstall the Bitagora node, run:
 bash bitagora-node-ubuntu.sh uninstall
 ``` 
 
-[back](./)
+[back](./validator.md)
 
