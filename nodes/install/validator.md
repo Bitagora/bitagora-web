@@ -3,7 +3,7 @@ layout: default
 ---
 # Bitagora-node validator
 
-This is a distributed application to validate votes and maintain the Bitagora
+Bitagora-node is a distributed application to validate votes and maintain the Bitagora
 blockchain voting system. Validator nodes play an indispensable role in sustaining reliable,
 transparent and accountable voting processes without the need for any central
 authority. This distributed application is free to install and runs on top of Hyperledger
@@ -14,6 +14,7 @@ Sawtooth.
 - [Components](#components)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Source code](#source-code)
 - [Documentation](#documentation)
 - [License](#license)
 
@@ -152,6 +153,11 @@ To exit the shell, you can simply run:
 ```
 exit
 ```
+
+## Source code
+
+The source code for the validator node software is available at
+[Bitagora-node repo](https://github.com/Bitagora/bitagora-node).
 
 ## Documentation
 
