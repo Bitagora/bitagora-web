@@ -37,9 +37,9 @@ that is able to run Docker. You can find more information about installing and r
 
 Follow the installation and usage instructions for your system:
 
-- [Ubuntu](install-ubuntu.md)
-- [Windows 10](install-windows-10.md)
-- [Mac](install-mac.md)
+- [Ubuntu](./ubuntu.md)
+- [Windows 10](./windows-10.md)
+- [Mac](./mac.md)
 
 ## Usage
 
