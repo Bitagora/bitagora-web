@@ -174,9 +174,9 @@
 		"state": {
 			"title": "Estado del voto",
 			"values": {
-				"0": "Voto pendiente",
-  			"1": "Voto confirmado",
-				"9": "El voto no se ha localizado"
+				"found": "Voto confirmado",
+  				"unknown": "El voto no se ha localizado",
+				"error": "El voto no se ha localizado (error)"
 			}
 		},
 		"results": {
