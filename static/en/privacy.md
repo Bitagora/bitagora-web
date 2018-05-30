@@ -48,4 +48,3 @@ layout: default
 ### 5. Contact
 1.	If you have any queries regarding this policy, you can contact Bitagora by email at [mail@bitagora.cc](mailto:mail@bitagora.cc).
 
-[back](./)
