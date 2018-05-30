@@ -166,7 +166,7 @@ The latest documentation for Hyperledger-Sawtooth is available in the
 
 ## License
 
-Bitagora software is licensed under the [Apache License Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
+Bitagora-node is licensed under the [Apache License Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
 software license.
 
 [back](../../.)
