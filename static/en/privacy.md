@@ -1,3 +1,6 @@
+---
+layout: default
+---
 ## Privacy policy
 
 ### 1. Personal information
