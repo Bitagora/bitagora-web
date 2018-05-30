@@ -171,12 +171,12 @@
 					},
 					"action": "Comprovar"
 				},
-				"state": {
+				"status": {
 					"title": "Estat del vot",
 					"values": {
-						"0": "Vot pendent",
-						"1": "Vot confirmat",
-						"9": "El vot no s'ha localitzat"
+						"found": "Vot confirmat",
+  						"unknown": "El vot no s'ha localitzat",
+						"error": "El vot no s'ha localitzat (error)"
 					}
 				},
 				"results": {
