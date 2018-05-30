@@ -183,7 +183,8 @@
 					"final": "Resultats definitius",
 					"temporary": "Resultats provisionals",
 					"votes": "vots",
-					"votesCast": "Vots emesos"
+					"votesCast": "Vots emesos",
+					"noResults": "No hi ha resultats."
 				},
 				"modals": {
 					"notStarted": {
