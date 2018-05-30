@@ -146,7 +146,7 @@
 					"error": {
 						"title": "Error al procesar los datos. Inténtalo de nuevo."
 					},
-					"voteConfirmed": {
+					"voteStatus": {
 						"title": { 
 							"first" : "El teu vot s'ha enviat a la xarxa d'interventors.",
 							"pending": "El vot ha estat processat amb èxit i està pendent de validació. Encara pot trigar alguns minutos fins que estigui definitivament dipositat al sistema. Sisplau, comprova el seu estat més endavant.",
