@@ -57,7 +57,7 @@ run a Bitagora node you need to open ports 8801 (used by validators to communica
 If you have any firewall set up in your computer, please make sure the ports are accessible for remote tcp
 connections. 
 
-The installation script will then download the configuration files and run 
+The installation script will then download the configuration files and run:
 
 ```
 docker-compose up
