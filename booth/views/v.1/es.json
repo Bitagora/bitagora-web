@@ -171,7 +171,7 @@
 			},
 			"action": "Comprobar"
 		},
-		"state": {
+		"status": {
 			"title": "Estado del voto",
 			"values": {
 				"found": "Voto confirmado",
