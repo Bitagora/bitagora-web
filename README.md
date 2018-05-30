@@ -16,7 +16,7 @@ Votes registered in the public ledger can be audited and checked by anyone. The 
 ### Install a validator node
 Help us to support democracy by installing a Bitagora validator node. Validator nodes can be installed in Ubuntu, Windows and Apple computers.
 
-[Installation instructions](https://github.com/Bitagora/bitagora-node/README.md)
+[Installation instructions](https://raw.githubusercontent.com/Bitagora/bitagora-node/master/README.md)
 
 ### Terms
 Read our [terms of service](static/en/terms.md)
