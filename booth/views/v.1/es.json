@@ -183,7 +183,8 @@
 			"final": "Resultados definitivos",
 			"temporary": "Resultados provisionales",
 			"votes": "votos",
-			"votesCast": "Votos emitidos"
+			"votesCast": "Votos emitidos",
+			"noResults": "No hay resultados."
 		},
 		"modals": {
 			"notStarted": {
