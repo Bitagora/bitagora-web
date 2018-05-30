@@ -29,7 +29,7 @@
     },
   "registerServer":"http://195.140.215.253/",
   "nodeSeed": ["195.140.215.253"],
-  "locales": ["es","ca","eu","ga","en"],
+  "locales": ["es","ca","eu","gl","en"],
   "views":
     {
       "es":
@@ -48,7 +48,10 @@
           "register": 
             {
               "sampleLink":"assets/img/dni-sample.svg",
-              "instructions": { "specific": "Introduce las tres líneas del código que aparece en la parte trasera de tu DNI, sin olvidar ningún carácter. También puedes tomar una fotografía con tu móvil." },
+              "instructions": 
+                { 
+                  "specific": "Introduce las tres líneas del código que aparece en la parte trasera de tu DNI, sin olvidar ningún carácter. También puedes tomar una fotografía con tu móvil." 
+                },
               "inputs": 
                 [
                   { "msg":"Primera línea de datos del DNI","length":"30" },
@@ -60,9 +63,6 @@
             {
               "question": "¿Quieres que haya tiranía o libertad?",
               "options": [ "Tiranía", "Libertad" ]
-            },
-          "check":
-            {
             }
         },
        "ca":
@@ -81,7 +81,10 @@
           "register": 
             {
               "sampleLink":"assets/img/dni-sample.svg",
-              "instructions": { "specific": "Introdueix les tres línies del codi que apareix a la part del darrere del tu DNI, sense oblidar cap caràcter. També pots prendre una fotografia amb el teu mòbil." },
+              "instructions": 
+                { 
+                  "specific": "Introdueix les tres línies del codi que apareix a la part del darrere del tu DNI, sense oblidar cap caràcter. També pots prendre una fotografia amb el teu mòbil." 
+                },
               "inputs": 
                 [
                   { "msg":"Primera línia de dades del DNI","length":"30" },
@@ -93,9 +96,6 @@
             {
               "question": "Vols que hi hagi tirania o llibertat?",
               "options": [ "Tirania", "Llibertat" ]
-            },
-          "check":
-            {
             }
         }
     }
