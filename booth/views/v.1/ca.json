@@ -148,9 +148,11 @@
 					},
 					"voteConfirmed": {
 						"title": { 
-							"first" : "El teu vot s'ha enviat amb èxit a la xarxa d'interventors.",
-							"pending": "El vot està pendent de validació i pot trigar alguns minutos fins que estigui definitivament dipositat al sistema. Sisplau, comprova el seu estat més endavant.",
-							"committed": "El voto ha estat validat pels interventors i ha estat dipositat correctament al sistema. Gràcies per votar amb Bitagora."
+							"first" : "El teu vot s'ha enviat a la xarxa d'interventors.",
+							"pending": "El vot ha estat processat amb èxit i està pendent de validació. Encara pot trigar alguns minutos fins que estigui definitivament dipositat al sistema. Sisplau, comprova el seu estat més endavant.",
+							"committed": "El vot ha estat validat pels interventors i ha estat dipositat correctament al sistema. Gràcies per votar amb Bitagora.",
+							"unknown": "L'estat del vot no s'ha pogut determinar amb certesa. Sisplau, comprova el seu estat d'aquí a 10 minuts. Si no surt com a dipositat, hauries de tornar a enviar-lo. Disculpa les molèsties.",
+							"invalid": "El vot és invàlid i ha estat rebutjat pels interventors. Prova a enviar-lo un altre cop o torna a començar el procés amb un nou registre. Disculpa les molèsties."
 						},
 						"buttons": {
 							"understood": "Entesos"
