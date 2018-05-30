@@ -57,7 +57,12 @@ run a Bitagora node you need to open ports 8801 (used by validators to communica
 If you have any firewall set up in your computer, please make sure the ports are accessible for remote tcp
 connections. 
 
-The installation script will then download the configuration files and run `docker-compose up`.
+The installation script will then download the configuration files and run 
+
+```
+docker-compose up
+```
+
 This will automatically install and run all Bitagora-Sawtooth components in different docker containers. 
 The installation will daemonize the node, so that the containers will continue to run in the background 
 even if you close the terminal. 
