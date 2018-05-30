@@ -146,7 +146,7 @@
 			"error": {
 				"title": "Error al procesar los datos. Inténtalo de nuevo."
 			},
-			"voteConfirmed": {
+			"voteStatus": {
 				"title": { 
 					"first" : "Tu voto es válido y se ha enviado a la red de interventores.",
 					"pending": "El voto ha sido procesado con éxito y está pendiente de validación. Puede tardar algunos minutos en quedar definitivamente depositado en el sistema. Por favor, comprueba su estado más tarde.",
