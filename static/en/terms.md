@@ -60,5 +60,3 @@ Bitagora is finally not liable for:
 - Acts of civil or military authorities
 - Lack of energy
 - Any similar unforeseen event that renders performance implausible.
-
-[back](./)
