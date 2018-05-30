@@ -3,7 +3,7 @@ layout: default
 ---
 ## Terms of service
 
-Bitagora Booth and Bitagora Validator software are provided free of charge.
+Bitagora Booth and Bitagora Node software are provided free of charge.
 When you vote or install a validator node using Bitagora, you abide by the following terms and conditions.
 
 The following Terms and Conditions (“Terms”) govern the use of the Bitagora open source software platform (“Bitagora Platform”). Prior to any use of the Bitagora Platform, the user confirms to understand and expressly agrees to all of the Terms. All capitalized terms in this agreement will be given the same effect and meaning as in the Terms. The group of developers and other personnel that is now, or will be, involved in the development, promotion or management of the Bitagora Platform is named the “Bitagora Team.” The Platform will be developed by persons and entities who support Bitagora, including both volunteers and developers who are paid by nonprofit entities interested in supporting the Bitagora Platform.
@@ -48,7 +48,7 @@ If the Bitagora Platform is rapidly adopted, the demand for transaction processi
 THE USER EXPRESSLY KNOWS AND AGREES THAT THE USER IS USING THE BITAGORA PLATFORM AT THE USER’S SOLE RISK. THE USER REPRESENTS THAT THE USER HAS AN ADEQUATE UNDERSTANDING OF THE RISKS, USAGES AND INTRICACIES OF CRYPTOGRAPHIC TOKENS AND BLOCKCHAIN-BASED OPEN SOURCE SOFTWARE, AND THE BITAGORA PLATFORM IN PARTICULAR.  THE USER ACKNOWLEDGES AND AGREES THAT, TO THE FULLEST EXTENT PERMITTED BY ANY APPLICABLE LAW, THE DISCLAIMERS OF LIABILITY CONTAINED HEREIN APPLY TO ANY AND ALL DAMAGES OR INJURY WHATSOEVER CAUSED BY OR RELATED TO RISKS OF, USE OF, OR INABILITY TO USE THE BITAGORA PLATFORM UNDER ANY CAUSE OF ACTION WHATSOEVER OF ANY KIND IN ANY JURISDICTION, INCLUDING, WITHOUT LIMITATION, ACTIONS FOR BREACH OF WARRANTY, BREACH OF CONTRACT OR TORT (INCLUDING NEGLIGENCE) AND THAT NEITHER BITAGORA NOR BITAGORA TEAM SHALL BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY OR CONSEQUENTIAL DAMAGES, INCLUDING FOR LOSS OF PROFITS, GOODWILL OR DATA. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF CERTAIN WARRANTIES OR THE LIMITATION OR EXCLUSION OF LIABILITY FOR CERTAIN TYPES OF DAMAGES. THEREFORE, SOME OF THE ABOVE LIMITATIONS IN THIS SECTION MAY NOT APPLY TO A USER. IN PARTICULAR, NOTHING IN THESE TERMS SHALL AFFECT THE STATUTORY RIGHTS OF ANY USER OR EXCLUDE INJURY ARISING FROM ANY WILLFUL MISCONDUCT OR FRAUD ON THE PART OF BITAGORA.
 
 ### Risk of Temporary Network Incoherence
-We recommend any groups handling large or important polls using the Bitagora Platform to ensure a sufficient number of active Bitagora Validator Nodes before launching their poll. In case the integrity of the network is at risk due to issues in the clients, we will endeavor to publish patches in a timely fashion to address the issues. We will endeavour to provide solutions within a reasonable waiting period.
+We recommend any groups handling large or important polls using the Bitagora Platform to ensure a sufficient number of active Bitagora validator nodes before launching their poll. In case the integrity of the network is at risk due to issues in the clients, we will endeavor to publish patches in a timely fashion to address the issues. We will endeavour to provide solutions within a reasonable waiting period.
 
 ### Force Majeure
 Bitagora is finally not liable for:
