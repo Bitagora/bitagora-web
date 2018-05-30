@@ -148,7 +148,9 @@
 			},
 			"voteConfirmed": {
 				"title": { 
-					"title" : "Tu voto es válido y se ha enviado con éxito. Puede tardar algunos minutos en propagarse por la red de interventores."
+					"first" : "Tu voto es válido y se ha enviado con éxito a la red de interventores.",
+					"pending": "El voto está pendiente de validación y puede tardar algunos minutos en quedar definitivamente depositado en el sistema. Por favor, comprueba su estado más tarde.",
+					"committed": "El voto ha sido validado por los interventores y ha sido depositado correctamente en el sistema. Gracias por votar con Bitagora."
 				},
 				"buttons": {
 					"understood": "Entendido"
