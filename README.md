@@ -14,7 +14,7 @@ The public ledger is fully distributed and managed by validator nodes using a de
 Votes registered in the public ledger can be audited and checked by anyone. The final results of an election faithfully reflect the will of voters. And everything at zero cost!
 
 ### Terms
-Read our [terms of service](terms.md)
+Read our [terms of service](/static/en/terms.md)
 
 ### Privacy
-Read our [privacy policy](privacy.md)
+Read our [privacy policy](/static/en/privacy.md)
