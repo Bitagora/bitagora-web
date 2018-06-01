@@ -37,7 +37,7 @@ At the moment, Bitagora nodes can only be installed in Linux (Ubuntu) systems th
 You can find more information about installing and running Docker in the [Docker](https://www.docker.com/what-docker) webpage.
 
 The following installation and usage instructions have only been tested for Ubuntu 16.04, but should work
-for more recent distributions as well. 
+for more recent distributions as well:
 
 - [Ubuntu](./ubuntu.md)
 
