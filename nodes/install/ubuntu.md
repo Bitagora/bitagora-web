@@ -33,21 +33,18 @@ chmod +x /usr/local/bin/docker-compose
 
 Now you are ready to install the Bitagora node containers.
 
-### 2. Download the installation script
+### 2. Download and run the Bitagora Node installation script
 
-You can download the installation script bitagora-node-ubuntu.sh from the [Bitagora-node repo](https://github.com/Bitagora/bitagora-node). Alternatively, use the following instruction to download the file directly:
-
-```
-curl -o- https://raw.githubusercontent.com/Bitagora/bitagora-node/master/download/bitagora-node-ubuntu.sh | bash
-```
-
-### 3. Run the installation script
-
-From the same directory where the installation script has been downloaded to,
-run the following command:
+You can download the installation script bitagora-node-ubuntu.sh from the [Bitagora-node repo](https://github.com/Bitagora/bitagora-node) and run the following command:
 
 ```
 bash bitagora-node-ubuntu.sh install
+```
+
+Alternatively, use the following instruction to download and run the installation script directly:
+
+```
+curl -o- https://raw.githubusercontent.com/Bitagora/bitagora-node/master/download/bitagora-node-ubuntu.sh | bash install
 ```
 
 The installation script will check that your system has Docker installed and will get its external IP
