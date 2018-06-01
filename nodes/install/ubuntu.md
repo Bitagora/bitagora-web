@@ -44,7 +44,7 @@ bash bitagora-node-ubuntu.sh install
 Alternatively, use the following instruction to download and run the installation script directly:
 
 ```
-curl -o- https://raw.githubusercontent.com/Bitagora/bitagora-node/master/download/bitagora-node-ubuntu.sh | bash install
+curl -o- https://raw.githubusercontent.com/bitagora/bitagora-node/master/download/bitagora-node-ubuntu.sh | bash install
 ```
 
 The installation script will check that your system has Docker installed and will get its external IP
@@ -58,8 +58,7 @@ The installation script will then download the configuration files and run `dock
 automatically install and run all Bitagora-Sawtooth components in different docker containers. The installation 
 will daemonize the node, so that the containers will continue to run in the background even if you close the terminal. 
 
-All the files installed in the process are open-source and can be reviewed in this repo or in hyperledger/sawtooth 
-repo.
+All the files installed in the process are open-source and can be reviewed in the [Bitagora Node repo](https://github.com/bitagora/bitagora-node) or in the [Hyperledger/Sawtooth repo](https://github.com/hyperledger/sawtooth-core).
 
 ## Troubleshooting 
 
@@ -91,7 +90,7 @@ bash bitagora-node-ubuntu.sh restart
 
 ### Uninstall Bitagora node 
 
-To uninstall the Bitagora node, run:
+To uninstall the Bitagora node from your system, run:
 
 ```
 bash bitagora-node-ubuntu.sh uninstall
