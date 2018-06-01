@@ -90,9 +90,9 @@ commmand line:
 bash bitagora-node-ubuntu.sh restart
 ```
 
-### Uninstall Bitagora node 
+### Uninstall Bitagora Node 
 
-To uninstall the Bitagora node from your system, run:
+To completely remove the validator node and uninstall Bitagora Node from your system, run:
 
 ```
 bash bitagora-node-ubuntu.sh uninstall
