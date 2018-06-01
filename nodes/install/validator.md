@@ -14,6 +14,7 @@ Sawtooth.
 - [Components](#components)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Support](#support)
 - [Source code](#source-code)
 - [Documentation](#documentation)
 - [License](#license)
@@ -32,14 +33,13 @@ includes a number of elements to manage the Bitagora blockchain:
 
 ## Installation
 
-Since Bitagora nodes run on Docker containers, they can be installed on any Linux, Windows or Mac system 
-that is able to run Docker. You can find more information about installing and running Docker in the [Docker](https://www.docker.com/what-docker) webpage.
+At the moment, Bitagora nodes can only be installed in Linux (Ubuntu) systems that are able to run Docker. 
+You can find more information about installing and running Docker in the [Docker](https://www.docker.com/what-docker) webpage.
 
-Follow the installation and usage instructions for your system:
+The following installation and usage instructions have only been tested for Ubuntu 16.04, but should work
+for more recent distributions as well. 
 
 - [Ubuntu](./ubuntu.md)
-- [Windows 10](./windows-10.md)
-- [Mac](./mac.md)
 
 ## Usage
 
@@ -154,10 +154,16 @@ To exit the shell, you can simply run:
 exit
 ```
 
+## Support
+
+Bitagora Node is open-source software. It is provided free of charge without
+any guarantee of support. If you need help or assistance, please open an issue
+in the [GitHub repo](https://github.com/Bitagora/bitagora-node/issues).
+
 ## Source code
 
-The source code for the Bitagora Node software is available at
-[Bitagora Node repo](https://github.com/Bitagora/bitagora-node).
+The source code for the Bitagora Node software is available in the
+[Bitagora Node repo](https://github.com/bitagora/bitagora-node).
 
 ## Documentation
 
