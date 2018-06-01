@@ -41,7 +41,7 @@ You can download the installation script bitagora-node-ubuntu.sh from the [Bitag
 wget https://raw.githubusercontent.com/bitagora/bitagora-node/master/bitagora-node-ubuntu.sh
 ```
 
-### 3. Install Bitagora node
+### 3. Install Bitagora Node
 
 From the same directory, run the script:
 
