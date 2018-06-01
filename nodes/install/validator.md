@@ -163,11 +163,11 @@ in the [GitHub repo](https://github.com/Bitagora/bitagora-node/issues).
 ## Source code
 
 The source code for the Bitagora Node software is available in the
-[Bitagora Node repo](https://github.com/bitagora/bitagora-node).
+[bitagora-node repo](https://github.com/bitagora/bitagora-node).
 
 ## Documentation
 
-The latest documentation for Hyperledger-Sawtooth is available in the
+The latest documentation for Hyperledger/Sawtooth is available in the
 [sawtooth-core repo](https://github.com/hyperledger/sawtooth-core).
 
 ## License
