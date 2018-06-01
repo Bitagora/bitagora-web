@@ -14,7 +14,7 @@ The public ledger is fully distributed and managed by validator nodes using a de
 Votes registered in the public ledger can be audited and checked by anyone. The final results of an election faithfully reflect the will of voters. And everything at zero cost!
 
 ## Install a validator node
-Help us to support democracy by installing a Bitagora validator node. Validator nodes can be installed in Ubuntu, Windows and Apple computers.
+Help us to support democracy by installing a Bitagora validator node. At the moment, validator nodes can only be installed in Ubuntu systems. In the future, we plan to offer installation in Windows and Mac computers as well.
 
 [Installation and usage instructions](nodes/install/validator.md)
 
