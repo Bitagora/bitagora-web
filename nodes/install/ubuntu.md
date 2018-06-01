@@ -35,7 +35,7 @@ Now you are ready to install the Bitagora node containers.
 
 ### 2. Download and run the Bitagora Node installation script
 
-You can download the installation script bitagora-node-ubuntu.sh from the [Bitagora-node repo](https://github.com/Bitagora/bitagora-node) and run the following command:
+You can download the installation script bitagora-node-ubuntu.sh from the [Bitagora Node repo](https://github.com/bitagora/bitagora-node) and run the following command:
 
 ```
 bash bitagora-node-ubuntu.sh install
