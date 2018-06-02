@@ -85,7 +85,7 @@
 				"error": "Error al procesar los datos. Asegúrate de que la información introducida es correcta e inténtalo de nuevo."
 			},
 			"result": {
-				"title": "Se ha generado una clave privada de voto. Esta clave se grabará en tu dispositivo. Para más seguridad, anótala también en un lugar seguro. Si quieres, ya puedes votar.",
+				"message": "El registro se ha realizado con éxito y se ha generado una clave privada de voto. Esta clave se grabará en tu dispositivo. Para más seguridad, anótala también en un lugar seguro. Si quieres, ya puedes votar.",
 				"buttons": {
 					"vote": "Votar",
 					"cancel": "Cancelar"
