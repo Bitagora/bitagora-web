@@ -123,28 +123,31 @@
 						}
 					},
 					"alreadyVoted": {
-						"title": "Ya has votado. Puedes comprobar tu voto o iniciar un nuevo registro (se borrará el anterior).",
+						"title": "Ja has votat. Pots comprovar el teu vot o iniciar un nou registre (s'esborrarà l'anterior).",
 						"buttons": {
-							"checkVote": "Comprobar mi voto",
-							"registerAgain": "Registrarme otra vez",
-							"cancel": "Cancelar"
+							"checkVote": "Comprovar el meu vot",
+							"registerAgain": "Registrar-me un altre cop",
+							"cancel": "Cancel·lar"
 						}
 					},
 					"confirmVote": {
 						"title": { 
-							"first" : "Has votado ",
-							"second": ". Una vez depositado el voto en el sistema, no puede modificarse ni repetirse. Confirma que quieres depositar tu voto."
+							"first" : "Has escollit l'opció '",
+							"second": "'. Un cop dipositat el vot al sistema, no es pot modificar ni repetir. Confirma que vols dipositar el teu vot."
 						},
 						"buttons": {
 							"confirm": "Confirmar",
-							"cancel": "Cancelar"
+							"cancel": "Cancel·lar"
 						}
 					},
 					"processing": {
-						"title": "Un momento, por favor. Estamos procesando el voto."
+						"title": "Un moment, siplau. Estem processant el vot."
 					},
 					"error": {
-						"title": "Error al procesar los datos. Inténtalo de nuevo."
+						"title": "Error en processar les dades. Prova-ho un altre cop."
+					},
+					"nodata": {
+						"title": "Les dades del registre no s'han guardat correctament. Sisplau, registra't de nou." 	
 					},
 					"voteStatus": {
 						"title": { 
