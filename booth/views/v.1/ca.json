@@ -201,25 +201,25 @@
 			},
 			"tutorial": {
 				"first": {
-					"title": "Bienvenido a la urna virtual",
-					"text": "Bitagora  es una aplicación de blockchain para votar de forma anónima, segura y fiable en una consulta democrática organizada por ciudadanos como tú. Desde esta aplicación, podrás obtener una clave secreta y emitir tu voto. Luego la red de interventores de Bitagora lo incluirá en un registro público y auditable."
+					"title": "Benvingut a la urna virtual",
+					"text": "Bitagora és una aplicación de blockchain per votar de forma anònima, segura i fiable en una consulta democràtica organitzada per ciutadans com tu. Aquí podràs obtenir una clau secreta i emetre el teu vot. La xarxa d'interventors de Bitagora l'inclourà en un registre públic i auditable."
 				},
 				"second": {
-					"title": "¿Es mi voto secreto?",
-					"text": "Tu voto no incluye ningún dato que pueda permitir identificarte personalmente. Los datos que envias al registrarte están cifrados y no se almacenan en ningún servidor. Bitagora se limita a generar de manera automática una clave criptográfica que te permite votar de forma totalmente confidencial."
+					"title": "¿És secret el meu vot?",
+					"text": "El teu vot no inclou cap dada que permeti identificar-te personalment. Les dades que enviïs en registrar-te estan xifrades i no es guarden en cap servidor. Bitagora es limita a generar de manera automàtica una clau criptogràfica que et permet votar de forma totalmente confidencial."
 				},						
 				"third": {
-					"title": "¿Es mi voto seguro?",
-					"text": "Gracias a la criptografía, podemos garantizar que tu voto sea irrepetible y no pueda ser modificado por nadie. Solo puedes votar una vez en una misma elección. La red de interventores comprobará la validez del voto antes de inscribirlo en el registro público."
+					"title": "¿És segur el meu vot?",
+					"text": "Gràcies a la criptografia, podem garantir que el teu vot sigui irrepetible i no pugui ser modificat per ningú. Només pots votar un cop en una mateixa consulta. La xarxa d'interventors comprovarà automàticament la validesa del vot abans d'inscriure'l al registre públic."
 				},								
 				"fourth": {
-					"title": "¿Cómo puedo ver mi voto?",
-					"text": "Con tu clave secreta, podrás comprobar el estado de tu voto. Los votos pueden tardar entre 10 minutos y una hora en ser procesados por la red. Si tu voto no queda inscrito, puedes volver a votar. Pero una vez el voto esté inscrito en el registro público, no podrás votar de nuevo ni cambiar el voto."
+					"title": "¿Com puc veure el meu vot?",
+					"text": "Amb la teva clau secreta, podràs comprovar l'estat del vot. Els vots poden trigar entre 10 minuts i una hora en ser processats per la xarxa. Si el teu vot no queda inscrit, pots tornar a votar. Però un cop el vot estigui inscrit al registre públic, no podràs votar de nou ni canviar el vot."
 				},
 				"fifth": {
-					"title": "Com puc saber-ne més?",
-					"text1": "Per consultar els resultats de la votació o unir-te a la xarxa d'interventors, visita la pàgina web:",
-					"text2": "Per obtenir més informació sobre el sistema de votació, pots visitar:"
+					"title": "Com puc saber més?",
+					"text1": "Per consultar els resultats de la votació o unir-te a la xarxa d'interventors:",
+					"text2": "Per obtenir més informació sobre el sistema de votació:"
 				}	
 			}
 		}
