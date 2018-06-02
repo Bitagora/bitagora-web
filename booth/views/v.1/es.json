@@ -132,8 +132,8 @@
 			},
 			"confirmVote": {
 				"title": { 
-					"first" : "Has votado ",
-					"second": ". Una vez depositado el voto en el sistema, no puede modificarse ni repetirse. Confirma que quieres depositar tu voto."
+					"first" : "Has escogido la opción '",
+					"second": "'. Una vez depositado el voto en el sistema, no puede modificarse ni repetirse. Confirma que quieres depositar tu voto."
 				},
 				"buttons": {
 					"confirm": "Confirmar",
@@ -145,6 +145,9 @@
 			},
 			"error": {
 				"title": "Error al procesar los datos. Inténtalo de nuevo."
+			},
+			"nodata": {
+				"title": "Los datos del registro no se han guardado correctamente. Por favor, regístrate de nuevo." 	
 			},
 			"voteStatus": {
 				"title": { 
