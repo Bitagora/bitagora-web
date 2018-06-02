@@ -198,7 +198,9 @@
 			},
 			"processing": {
 				"title": "Un momento, por favor. Estamos procesando los datos.",
-				"error": "Error al intentar obtener los datos. Por favor, inténtalo de nuevo."
+				"error": "Error al intentar obtener los datos. Por favor, inténtalo de nuevo.",
+				"notfound": "No se ha encontrado ningún voto con esta clave. Si has votado hace poco, inténtalo de nuevo más tarde, ya que quizás todavía no se ha inscrito."
+
 			}
 		}
 	},
