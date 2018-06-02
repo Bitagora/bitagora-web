@@ -198,7 +198,8 @@
 					},
 					"processing": {
 						"title": "Un moment, sisplau. Estem processant les dades.",
-						"error": "Error en intentar obtenir les dades de la xarxa. Sisplau, intenta-ho més endavant."
+						"error": "Error en intentar obtenir les dades de la xarxa. Sisplau, intenta-ho més endavant.",
+						"notfound": "No s'ha trobat cap vot amb aquesta clau. Si has votat fa poc, intenta-ho a provar més endavant, ja que potser encara no s'ha inscrit."
 					}
 				}
 			},
