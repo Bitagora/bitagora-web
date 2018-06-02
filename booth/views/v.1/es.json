@@ -131,10 +131,8 @@
 				}
 			},
 			"confirmVote": {
-				"title": { 
-					"first" : "Has escogido la opción '",
-					"second": "'. Una vez depositado el voto en el sistema, no puede modificarse ni repetirse. Confirma que quieres depositar tu voto."
-				},
+				"title": "Voto: ",
+				"message": "Una vez depositado el voto en el sistema, no puede modificarse ni repetirse. Confirma que quieres depositar tu voto.",
 				"buttons": {
 					"confirm": "Confirmar",
 					"cancel": "Cancelar"
