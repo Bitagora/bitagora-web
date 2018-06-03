@@ -56,8 +56,6 @@ communicate from the following ports, which should be left available:
 
 You can access the shell container by openning a terminal window and running:
 
-Ubuntu:
-
 ```
 docker exec -it bitagora-shell bash
 ```
