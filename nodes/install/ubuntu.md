@@ -33,23 +33,30 @@ chmod +x /usr/local/bin/docker-compose
 
 Now you are ready to install the Bitagora node containers.
 
-### 2. Download the Bitagora Node installation script
+### 2. Download the Bitagora Node script
 
-You can download the installation script bitagora-node-ubuntu.sh from the [Bitagora Node repo](https://github.com/bitagora/bitagora-node) or run the following command from your terminal:
+You can download the installation script `bitagora-node.sh` from the [Bitagora Node repo](https://github.com/bitagora/bitagora-node) or running the following command from your terminal:
 
 ```
-wget https://raw.githubusercontent.com/bitagora/bitagora-node/master/bitagora-node-ubuntu.sh
+wget https://raw.githubusercontent.com/bitagora/bitagora-node/master/bitagora-node.sh
 ```
 
-### 3. Install Bitagora Node
+### 3. Run the Bitagora Node script
 
 From the same directory, run the script:
 
 ```
-bash bitagora-node-ubuntu.sh install
+bash bitagora-node.sh
 ```
 
-The installation script will check that your system has Docker installed and will get its external IP
+This script needs to be run by the root user. You might need to type: `sudo bash bitagora-node.sh`. 
+
+The script allows you to execute all operations necessary to install, uninstall, stop, restart and check the status
+of a node. Select your chosen option using the interactive menu and follow the prompts.
+
+#### Install
+
+The script checks that your system has Docker installed and gets your external IP
 to customize the configuration of the node. It will also check if you have a firewall. In order to
 run a Bitagora node you need to open ports 8801 (used by validators to communicate between them) and 8008 
 (used by the REST-API to communicate with clients). Both of these ports should be available. 
@@ -58,45 +65,31 @@ connections.
 
 The installation script will then download the configuration files and run `docker-compose up`. This will 
 automatically install and run all Bitagora-Sawtooth components in different docker containers. The installation 
-will daemonize the node, so that the containers will continue to run in the background even if you close the terminal. 
+script will ask you if you want to daemonize the node, so that the containers will continue to run in the background 
+even if you close the terminal. It is recommended that you answer yes when prompted. Otherwise, the node will stop 
+after you close your terminal.
 
 All the files installed in the process are open-source and can be reviewed in the [Bitagora Node repo](https://github.com/bitagora/bitagora-node) or in the [Hyperledger/Sawtooth repo](https://github.com/hyperledger/sawtooth-core).
 
-## Troubleshooting 
+#### Status
 
-### Check status of Bitagora node containers
+The status option allows you to check the current status of the Bitagora Node containers installed in your system.
 
-From the commmand line, run:
+### Stop
 
-```
-bash bitagora-node-ubuntu.sh status
-```
+This option stops all containers running the node components. The containers are not removed and can be restarted
+again with the same script.
 
-### Stop all Bitagora node containers
+### Restart
 
-To stop all containers running the node components, use the following instruction from the
-commmand line:
+To restart all containers running the node components, use this option. Again, you will be prompted to confirm
+that you want to daemonize the node. It is recommended that you answer yes.
 
-```
-bash bitagora-node-ubuntu.sh stop
-```
+### Uninstall
 
-### Restart all Bitagora node containers
-
-To restart all containers running the node components, use the following instruction from the
-commmand line:
-
-```
-bash bitagora-node-ubuntu.sh restart
-```
-
-### Uninstall Bitagora Node 
-
-To completely remove the validator node and uninstall Bitagora Node from your system, run:
-
-```
-bash bitagora-node-ubuntu.sh uninstall
-``` 
+Select this option to completely remove the validator node and uninstall Bitagora Node from your system. The script
+will try to remove all the components automatically. If it encounters any errors, it will output the commands
+you need to remove the components manually from the terminal. After all this components have been removed, you can
+simply remove the script itself by running `rm bitagora-node.sh` from the same directory.
 
 [back](./validator.md)
-
