@@ -75,17 +75,17 @@ All the files installed in the process are open-source and can be reviewed in th
 
 The status option allows you to check the current status of the Bitagora Node containers installed in your system.
 
-### Stop
+#### Stop
 
 This option stops all containers running the node components. The containers are not removed and can be restarted
 again with the same script.
 
-### Restart
+#### Restart
 
 To restart all containers running the node components, use this option. Again, you will be prompted to confirm
 that you want to daemonize the node. It is recommended that you answer yes.
 
-### Uninstall
+#### Uninstall
 
 Select this option to completely remove the validator node and uninstall Bitagora Node from your system. The script
 will try to remove all the components automatically. If it encounters any errors, it will output the commands
