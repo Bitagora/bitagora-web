@@ -24,13 +24,13 @@ Sawtooth.
 Running on top of the core components from Hyperledger Sawtooth, a Bitagora validator node
 includes a number of elements to manage the Bitagora blockchain:
 
-- Bitagora-polls-tp: a **transaction processor** which handles polls
-- Bitagora-ballots-tp:  a **transaction processor** which handles incoming ballots
-- Bitagora-settings-tp: a **transaction processor** which handles blockchain settings
-- Bitagora-registry-tp: a **transaction processor** which handles the registry of nodes in the PoET consensus network
-- Bitagora-validator: a **Sawtooth validator** node linked to other nodes in the network
-- Bitagora-rest-api: a **rest-api** that provides and received poll and ballot data from clients
-- Bitagora-shell: a **shell** container with the dependencies to run Bitagora commands
+- polls-tp: a **transaction processor** which handles polls settings
+- ballots-tp:  a **transaction processor** which handles ballots for polls
+- settings-tp: a **transaction processor** which handles settings for the Bitagora blockchain
+- poet-validator-registry-tp:: a **transaction processor** which handles the registry of nodes on the PoET consensus network
+- validator: a **Hyperledger/Sawtooth validator** node linked to other nodes in the Bitagora network
+- rest-api: a **rest-api** that receives and provides poll and ballot data from clients
+- shell: a **shell** container with the dependencies to run Bitagora commands to interact with the blockchain
 
 ## Installation
 
@@ -44,8 +44,7 @@ for more recent distributions as well:
 
 ## Usage
 
-The different components will be installed in Docker containers. These containers 
-communicate from the following ports, which should be left available:
+The different components will be installed in Docker containers. These containers communicate from the following ports, which should be left available:
 
 - 8008 for REST-API communication with clients
 - 4004 for Validator node internal components communication
@@ -57,8 +56,7 @@ communicate from the following ports, which should be left available:
 
 There are two ways to access the shell. 
 
-The easiest is to use the `bitagora-node.sh` script downloaded during installation. The script includes a submenu
-option SHELL. Enter this menu to access all the functionalities of the shell.
+The easiest way is to use the `bitagora-node.sh` script downloaded during installation. The UI in this script allows you to install, uninstall, stop, restart and check the status of your node. The script also includes a submenu option 'SHELL'. Enter this submenu to access all the functionalities of the shell without having to run any commands.
 
 If you want more control, you can also access the shell container by openning a terminal window and running:
 
@@ -66,8 +64,7 @@ If you want more control, you can also access the shell container by openning a 
 docker exec -it bitagora-shell bash
 ```
 
-Once inside the shell, you can try running the following commands to obtain data from your
-validator node.
+Once inside the shell, you can try running the following commands to obtain data from your validator node.
 
 #### List all available polls
 
@@ -138,6 +135,7 @@ To check which other nodes your machine is peered with, use:
 ```
 bitagora list nodes
 ```
+
 #### Get node keys
 
 From the shell, you can also access the keys used by your node. This command will output
