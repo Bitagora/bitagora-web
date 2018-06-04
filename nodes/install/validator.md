@@ -27,6 +27,7 @@ includes a number of elements to manage the Bitagora blockchain:
 - Bitagora-polls-tp: a **transaction processor** which handles polls
 - Bitagora-ballots-tp:  a **transaction processor** which handles incoming ballots
 - Bitagora-settings-tp: a **transaction processor** which handles blockchain settings
+- Bitagora-registry-tp: a **transaction processor** which handles the registry of nodes in the PoET consensus network
 - Bitagora-validator: a **Sawtooth validator** node linked to other nodes in the network
 - Bitagora-rest-api: a **rest-api** that provides and received poll and ballot data from clients
 - Bitagora-shell: a **shell** container with the dependencies to run Bitagora commands
@@ -54,7 +55,12 @@ communicate from the following ports, which should be left available:
 
 #### Access the shell
 
-You can access the shell container by openning a terminal window and running:
+There are two ways to access the shell. 
+
+The easiest is to use the `bitagora-node.sh` script downloaded during installation. The script includes a submenu
+option SHELL. Enter this menu to access all the functionalities of the shell.
+
+If you want more control, you can also access the shell container by openning a terminal window and running:
 
 ```
 docker exec -it bitagora-shell bash
@@ -65,8 +71,7 @@ validator node.
 
 #### List all available polls
 
-To get a list of all the polls stored in the Bitagora blockchain, including those
-currently active and inactive:
+To get a list of all the polls stored in the Bitagora blockchain, including those currently active and inactive:
 
 ```
 bitagora list polls
@@ -74,9 +79,7 @@ bitagora list polls
 
 #### Show poll information
 
-To get detailed information on a particular poll, including a recount of
-the total ballots cast and the results obtained by every available options, use
-the following command. It requires an 8 digit alphanumerical Poll id as a single parameter.
+To get detailed information on a particular poll, including a recount of the total ballots cast and the results obtained by every available options, use the following command. It requires an 8 digit alphanumerical Poll id as a single parameter.
 
 ```bash
 bitagora show poll [pollId]
