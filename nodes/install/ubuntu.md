@@ -92,4 +92,9 @@ will try to remove all the components automatically. If it encounters any errors
 you need to remove the components manually from the terminal. After all this components have been removed, you can
 simply remove the script itself by running `rm bitagora-node.sh` from the same directory.
 
+#### Shell
+
+Select this option to enter a submenu that allows you to run the Bitagora-shell commands directly from the script. 
+These commands can also be run from the shell. Follow the instructions in the [Usage](./validator.md#Usage) section. 
+
 [back](./validator.md)
