@@ -95,6 +95,6 @@ simply remove the script itself by running `rm bitagora-node.sh` from the same d
 #### Shell
 
 Select this option to enter a submenu that allows you to run the Bitagora-shell commands directly from the script. 
-These commands can also be run from the shell. Follow the instructions in the [Usage](./validator.md#Usage) section. 
+These commands can also be run from the shell. Follow the instructions in the [Usage](./validator.md#usage) section. 
 
 [back](./validator.md)
