@@ -58,16 +58,16 @@ of a node. Select your chosen option using the interactive menu and follow the p
 
 The script checks that your system has Docker installed and gets your external IP
 to customize the configuration of the node. It will also check if you have a firewall. In order to
-run a Bitagora node you need to open ports 8801 (used by validators to communicate between them) and 8008 
-(used by the REST-API to communicate with clients). Both of these ports should be available. 
-If you have any firewall set up in your computer, please make sure the ports are accessible for remote tcp
-connections. 
+run a Bitagora node you need to open ports `8801` (used by validators to communicate between themselves) and `8008` 
+(used by the REST-API to communicate with clients). Both of these ports should be accessible. 
+If you have a firewall set up in your computer, please make sure the ports are accessible for remote tcp
+connections before running the script. 
 
 The installation script will then download the configuration files and run `docker-compose up`. This will 
 automatically install and run all Bitagora-Sawtooth components in different docker containers. The installation 
-script will ask you if you want to daemonize the node, so that the containers will continue to run in the background 
-even if you close the terminal. It is recommended that you answer yes when prompted. Otherwise, the node will stop 
-after you close your terminal.
+script will ask you if you want to daemonize the node, so that the containers continue to run in the background 
+even after you close the terminal. It is recommended that you answer 'yes' when prompted. Otherwise, the node will stop 
+once you close your terminal.
 
 All the files installed in the process are open-source and can be reviewed in the [Bitagora Node repo](https://github.com/bitagora/bitagora-node) or in the [Hyperledger/Sawtooth repo](https://github.com/hyperledger/sawtooth-core).
 
@@ -82,14 +82,13 @@ again with the same script.
 
 #### Restart
 
-To restart all containers running the node components, use this option. Again, you will be prompted to confirm
-that you want to daemonize the node. It is recommended that you answer yes.
+To restart all the node components, use this option. Again, you will be prompted to confirm that you want to daemonize the node. It is recommended that you answer 'yes'.
 
 #### Uninstall
 
 Select this option to completely remove the validator node and uninstall Bitagora Node from your system. The script
 will try to remove all the components automatically. If it encounters any errors, it will output the commands
-you need to remove the components manually from the terminal. After all this components have been removed, you can
+you need to use to remove the components manually from the terminal. After all the components have been removed, you can
 simply remove the script itself by running `rm bitagora-node.sh` from the same directory.
 
 #### Shell
