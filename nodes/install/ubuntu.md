@@ -89,7 +89,7 @@ To restart all the node components, use this option. Again, you will be prompted
 Select this option to completely remove the validator node and uninstall Bitagora Node from your system. The script
 will try to remove all the components automatically. If it encounters any errors, it will output the commands
 you need to use to remove the components manually from the terminal. After all the components have been removed, you can
-simply remove the script itself by running `rm bitagora-node.sh` from the same directory.
+simply remove the script itself by running ``rm bitagora-node.sh`` from the same directory.
 
 #### Shell
 
