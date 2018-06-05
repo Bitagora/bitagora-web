@@ -35,7 +35,7 @@ Now you are ready to install the Bitagora node containers.
 
 ### 2. Download the Bitagora Node script
 
-You can download the installation script `bitagora-node.sh` from the [Bitagora Node repo](https://github.com/bitagora/bitagora-node) or running the following command from your terminal:
+You can download the installation script ``bitagora-node.sh`` from the [Bitagora Node repo](https://github.com/bitagora/bitagora-node) or running the following command from your terminal:
 
 ```
 wget https://raw.githubusercontent.com/bitagora/bitagora-node/master/bitagora-node.sh
