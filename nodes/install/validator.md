@@ -71,7 +71,7 @@ Once inside the shell, you can try running the following commands to obtain data
 To get a list of all the polls stored in the Bitagora blockchain, including those currently active and inactive:
 
 ```
-bitagora list polls
+node shell.js list polls
 ```
 
 #### Show poll information
@@ -79,7 +79,7 @@ bitagora list polls
 To get detailed information on a particular poll, including a recount of the total ballots cast and the results obtained by every available options, use the following command. It requires an 8 digit alphanumerical Poll id as a single parameter.
 
 ```bash
-bitagora show poll [pollId]
+node shell.js show poll [pollId]
 ```
 
 #### Check a ballot
@@ -89,7 +89,7 @@ The first one is an 8 digit alphanumerical Poll id. The second one can be any of
 the id of the vote or the private key obtained by the voter at the moment of registration.
 
 ```
-bitagora show vote [pollId] [{voteId/privkey}]
+node shell.js show vote [pollId] [{voteId/privkey}]
 ```
 
 #### View Bitagora blockchain blocks
@@ -97,13 +97,13 @@ bitagora show vote [pollId] [{voteId/privkey}]
 From the shell you can list all the blocks in the blockchain with the following commmand:
 
 ```
-bitagora list blocks
+node shell.js list blocks
 ```
 
 If you want to view a particular block in more detail, use:
 
 ```
-bitagora show block [blockId] 
+node shell.js show block [blockId] 
 ```
 
 #### View Bitagora state
@@ -111,7 +111,7 @@ bitagora show block [blockId]
 From the shell you can also list the current state of the blockchain:
 
 ```
-bitagora list state
+node shell.js list state
 ```
 
 If you want to view the data stored in a particular address of the state, use:
@@ -125,7 +125,7 @@ bitagora show state [address]
 You can also check the settings stored in the blockchain:
 
 ```
-bitagora list settings
+node shell.js list settings
 ```
 
 #### View peer nodes
@@ -133,7 +133,7 @@ bitagora list settings
 To check which other nodes your machine is peered with, use:
 
 ```
-bitagora list nodes
+node shell.js list nodes
 ```
 
 #### Get node keys
