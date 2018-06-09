@@ -3,7 +3,7 @@
     {
       "id":"c1c2c3c4",
       "certkey":"023148127df19636dff89899479e66f4611d5ebf47035e54b4002804fc82af0a04",
-      "starts":"1527734800000",
+      "starts":"1535734800000",
       "ends":"1543597200000",
       "question":"¿Quieres que haya tiranía o libertad?",
       "options":"tiraniaaa0libertadd1",
@@ -12,7 +12,7 @@
           "00": "Tiranía", 
           "01": "Libertad"
         },
-      "approval":"3045022018910f319e85a1e7359a154ac5f585f11da176d57d27d28a4ad41645bcae2057022100a830c8a9b3608fe5502ece71100f6d98f3c73f6742461a82bd1587fb2a28e1b3"
+      "approval":""
     },
   "country":"ES",
   "sponsor":
