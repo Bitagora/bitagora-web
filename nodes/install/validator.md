@@ -117,7 +117,7 @@ node shell.js list state
 If you want to view the data stored in a particular address of the state, use:
 
 ```
-bitagora show state [address]
+node shell.js show state [address]
 ```
 
 #### View blockchain settings
