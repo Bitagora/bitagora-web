@@ -133,7 +133,7 @@ node shell.js list settings
 To check which other nodes your machine is peered with, use:
 
 ```
-node shell.js list nodes
+node shell.js list peers
 ```
 
 #### Get node keys
