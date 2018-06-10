@@ -27,7 +27,7 @@ includes a number of elements to manage the Bitagora blockchain:
 - polls-tp: a **transaction processor** which handles polls settings
 - ballots-tp:  a **transaction processor** which handles ballots for polls
 - settings-tp: a **transaction processor** which handles settings for the Bitagora blockchain
-- poet-validator-registry-tp:: a **transaction processor** which handles the registry of nodes on the PoET consensus network
+- poet-validator-registry-tp: a **transaction processor** which handles the registry of nodes on the PoET consensus network
 - validator: a **Hyperledger/Sawtooth validator** node linked to other nodes in the Bitagora network
 - rest-api: a **rest-api** that receives and provides poll and ballot data from clients
 - shell: a **shell** container with the dependencies to run Bitagora commands to interact with the blockchain
