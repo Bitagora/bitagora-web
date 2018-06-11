@@ -29,6 +29,7 @@
     },
   "registerServer":"http://195.140.215.253/",
   "nodeSeed": ["195.140.215.253"],
+  "open": true,
   "locales": ["es","ca","eu","gl","en"],
   "views":
     {
