@@ -5,15 +5,15 @@
       "certkey":"023148127df19636dff89899479e66f4611d5ebf47035e54b4002804fc82af0a04",
       "starts":"1535734800000",
       "ends":"1543597200000",
-      "question":"¿Quieres que haya tiranía o libertad?",
-      "options":"tiraniaaa0libertadd1",
+      "question":"¿Prefieres perros o gatos?",
+      "options":"perrossss0gatosssss1",
       "values": 
         { 
           "00": "Tiranía", 
           "01": "Libertad"
         },
       "open": false,
-      "approval":"30460221009136b6396b36d475146c48657f8d89f31f0c773bf793d7228a7303ed97ecac5a0221009625fb4a5b6b29e5a29cd4088e09557531cf3ca959b9975f1a59f0a30095ef9f"
+      "approval":"3046022100eb6a517a469736b849890717147f588025c3a7370ce8640364323ce32fda2809022100b8e58e0d53170e588f362906d77a7953123bdeb6dd9126eeccc5a318715eee76"
     },
   "country":"ES",
   "sponsor":
