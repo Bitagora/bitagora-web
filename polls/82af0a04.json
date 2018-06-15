@@ -12,7 +12,7 @@
           "00": "Tiranía", 
           "01": "Libertad"
         },
-      "open": false,
+      "open": true,
       "approval":"304402203b6eef969dd81fa10ae348ab31674ca868b4c97f0ae092ab5daa6e9d252d52ff02206afab84001295530b431fc7aae66cd68644e01ef40e8a9e44d9c106e3f2048ec"
     },
   "country":"ES",
