@@ -153,7 +153,8 @@
 					"pending": "El voto ha sido procesado con éxito y está pendiente de validación. Puede tardar algunos minutos en quedar definitivamente depositado en el sistema. Por favor, comprueba su estado más tarde.",
 					"committed": "El voto ha sido validado por los interventores y ha sido depositado correctamente en el sistema. Gracias por votar con Bitagora.",
 					"unknown": "El estado del vot no se ha podido determinar con certeza. Por favor, comprueba su estado pasados 10 minutos. Si no aparece como depositado, deberías volver a enviarlo. Disculpa las molestias.",
-					"invalid": "El voto es inválido y ha sido rechazado por los interventores. Intenta enviarlo otra vez o vuelve a empezar el proceso con un nuevo registro. Disculpa las molestias."
+					"invalid": "El voto es inválido y ha sido rechazado por los interventores. Intenta enviarlo otra vez o vuelve a empezar el proceso con un nuevo registro. Disculpa las molestias.",
+					"error": "Se ha producido un error y el voto no se ha podido procesor. Por favor, intenta enviarlo de nuevo más tarde. Disculpa las molestias."
 				},
 				"buttons": {
 					"understood": "Entendido"
