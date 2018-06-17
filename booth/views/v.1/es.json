@@ -185,7 +185,8 @@
 			"values": {
 				"found": "Voto confirmado",
   				"unknown": "El voto no se ha localizado",
-				"error": "El voto no se ha localizado (error)"
+				"error": "El voto no se ha localizado (error)",
+				"sealed": "Cerrado"
 			}
 		},
 		"results": {
