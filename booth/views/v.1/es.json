@@ -185,8 +185,7 @@
 			"values": {
 				"found": "Voto confirmado",
   				"unknown": "El voto no se ha localizado",
-				"error": "El voto no se ha localizado (error)",
-				"sealed": "Cerrado"
+				"error": "El voto no se ha localizado (error)"
 			}
 		},
 		"results": {
@@ -194,7 +193,8 @@
 			"temporary": "Resultados provisionales",
 			"votes": "votos",
 			"votesCast": "Votos emitidos",
-			"noResults": "No hay resultados que mostrar."
+			"noResults": "No hay resultados que mostrar.",
+			"sealed": "Cerrado"
 		},
 		"modals": {
 			"notStarted": {
