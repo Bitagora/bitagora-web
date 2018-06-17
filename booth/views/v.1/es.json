@@ -149,7 +149,6 @@
 			},
 			"voteStatus": {
 				"title": { 
-					"first" : "Tu voto es válido y se ha enviado a la red de interventores.",
 					"pending": "El voto ha sido procesado con éxito y está pendiente de validación. Puede tardar algunos minutos en quedar definitivamente depositado en el sistema. Por favor, comprueba su estado más tarde.",
 					"committed": "El voto ha sido validado por los interventores y ha sido depositado correctamente en el sistema. Gracias por votar con Bitagora.",
 					"unknown": "El estado del vot no se ha podido determinar con certeza. Por favor, comprueba su estado pasados 10 minutos. Si no aparece como depositado, deberías volver a enviarlo. Disculpa las molestias.",
