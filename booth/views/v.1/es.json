@@ -202,7 +202,7 @@
 				}
 			},
 			"processing": {
-				"title": "Un momento, por favor. Estamos conectando con la red de validadores...",
+				"title": "Un momento, por favor. Estamos conectando con la red de interventores...",
 				"error": "Error al intentar obtener los datos. Por favor, inténtalo de nuevo.",
 				"notfound": "No se ha encontrado ningún voto con esta clave. Si has votado hace poco, inténtalo de nuevo más tarde, ya que quizás todavía no se ha inscrito."
 
