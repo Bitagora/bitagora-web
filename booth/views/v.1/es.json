@@ -8,7 +8,7 @@
 		"tutorial": "Tutorial"				
 	},
 	"about": {
-		"header": "Bienvenido a Bitagora",
+		"header": "Bienvenida",
 		"situation": {
 			"active": "Votación en curso",
 			"not-started": "La votación todavía no ha empezado",
@@ -108,7 +108,7 @@
 		}
 	},
 	"vote": {
-		"header": "Emite tu voto",
+		"header": "Vota",
 		"modals": {
 			"notActive": {
 				"title": "Esta consulta no está activa. Solo puedes votar durante el período de votación.",
@@ -170,7 +170,7 @@
 		}
 	},
 	"check": {
-		"header": "Comprueba tu voto",
+		"header": "Comprueba",
 		"form": {
 			"message": "No hay ninguna clave registrada en este dispositivo. Para obtener una clave, debes registrarte. Si quieres comprobar el estado de un voto ya emitido, introduce la clave privada.",
 			"inputs": {
