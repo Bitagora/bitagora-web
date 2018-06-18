@@ -60,7 +60,7 @@
 		"modals": {
 			"confirmRegister": {
 				"title": "Consentimiento del uso de datos",
-				"message": "Consiento a enviar los datos de mi DNI para que sean procesados automáticamente con el fin de obtener una clave criptográfica que me permita votar de manera confidencial en esta consulta. He leído y acepto las condiciones de uso y privacidad. En concreto, entiendo que mis datos no se guardarán en ninguna tipo de base de datos o archivo una vez procesados por el servidor.",				
+				"message": "Consiento en enviar los datos de mi DNI para que sean procesados automáticamente con el fin de obtener una clave criptográfica que me permita votar de manera confidencial en esta consulta. He leído y acepto las condiciones de uso y privacidad. En concreto, entiendo que mis datos no se guardarán en ninguna tipo de base de datos o archivo una vez procesados por el servidor.",				
 				"buttons": {
 					"confirm": "Consiento",
 					"cancel": "No consiento"
