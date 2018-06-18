@@ -58,6 +58,14 @@
 			"unprocessable": "La foto no ha podido ser procesada. Inténtalo de nuevo o entra el código a mano."
 		},
 		"modals": {
+			"confirmRegister": {
+				"title": "Consentimiento del uso de datos",
+				"message": "Consiento a enviar los datos de mi DNI para que sean procesados automáticamente con el fin de obtener una clave criptográfica que me permita votar de manera segura y confidencial en esta consulta. He leído y acepto las condiciones de uso y privacidad. En concreto, entiendo que mis datos no se guardarán en ninguna base de datos o archivo una vez procesados.",				
+				"buttons": {
+					"confirm": "Consiento",
+					"cancel": "No consiento"
+				}
+			},
 			"notActive": {
 				"title": "Esta consulta no está activa. Solo puedes registrarte durante el período de votación.",
 				"buttons": {
