@@ -1,237 +1,237 @@
 {
-			"front": {
-				"header": "Urna virtual de Bitagora",
-				"prompt": "Entra un codi",
-				"submit": "Enviar",
-				"return": "Tornar enrere",
-				"knowMore": "Vols saber-ne més?",
-				"tutorial": "Tutorial"				
-			},
-			"about": {
-				"header": "Benvinguda",
-				"situation": {
-					"active": "Votació en curs",
-					"not-started": "La votació encara no ha començat",
-					"finished": "La votació ja ha finalitzat"
-				},
-				"dates": {
-					"heading": "Dates"
-				},
-				"requirements": {
-					"heading": "Pots participar si tens"
-				},
-				"sponsor": {
-					"heading": "Consulta promoguda per"
-				},
-				"state": {
-					"heading": "",
-					"register": {
-						"true": "Ja t'has registrat",
-						"false": "Encara no t'has registrat"
-					},
-					"vote": {
-						"true": "Ja has votat",
-						"false": "Encara no has votat"
-					},
-					"key": "La teva clau privada és"
-				},
-				"change": {
-					"context": "Escollir una altra consulta",
-					"locale": "Canviar d'idioma"
-				}	
-			},
+	"front": {
+		"header": "Urna virtual de Bitagora",
+		"prompt": "Entra un codi",
+		"submit": "Enviar",
+		"return": "Tornar enrere",
+		"knowMore": "Vols saber-ne més?",
+		"tutorial": "Tutorial"
+	},
+	"about": {
+		"header": "Benvinguda",
+		"situation": {
+			"active": "Votació en curs",
+			"not-started": "La votació encara no ha començat",
+			"finished": "La votació ja ha finalitzat"
+		},
+		"dates": {
+			"heading": "Dates"
+		},
+		"requirements": {
+			"heading": "Pots participar si tens"
+		},
+		"sponsor": {
+			"heading": "Consulta promoguda per"
+		},
+		"state": {
+			"heading": "",
 			"register": {
-				"header": "Registra't",
-				"action": "Registrar",
-				"instructions": {
-					"server": "Les dades seran enviades xifrades al servidor",
-					"general": "El servidor processarà de manera totalment automatitzada les dades per obtenir una clau personal. Un cop processada, aquesta informació no es guarda en cap base de dades. Enviant la informació, estàs acceptant les ",
-					"terms":"condicions d'ús",
-					"and": "i",
-					"privacy": "privacitat"
-				},
-				"picture": {
-					"take": "Fer una nova foto",
-					"read": "Utilitzar una foto guardada",
-					"cancel": "Cancel·lar",
-					"reading": "Llegint el document. Un moment, sisplau...",
-					"unprocessable": "La foto no ha pogut ser processada. Intenta-ho de nou o entra el codi a mà."
-				},
-				"modals": {
-					"notActive": {
-						"title": "Aquesta consulta no està activa. Només pots registrar-te durant el període de votació.",
-						"buttons": {
-							"understood": "Entesos"
-						}
-					},
-					"alreadyVoted": {
-						"title": "Ja estàs registrat i has votat. Pots comprovar el teu vot o registrar un altre usuari diferent (es borraran les dades del registre anterior).",
-						"buttons": {
-							"checkVote": "Comprovar el meu vot",
-							"registerAgain": "Registrar noves dades",
-							"cancel": "Cancel·lar"
-						}
-					},
-					"alreadyRegistered": {
-						"title": "Ja estàs registrat, però encara no has votat. Pots anar a votar o tornar a registrar-te (es borrarà l'anterior registre).",
-						"buttons": {
-							"checkVote": "Comprovar el meu vot",
-							"registerAgain": "Registrar-me un altre cop",
-							"cancel": "Cancel·lar"
-						}	
-					},
-					"processing": {
-						"title": "Un moment, sisplau. Estem processant les dades.",
-						"error": "Error en processar les dades. Assegura't que la informació introduïda és correcta i torna a provar-ho."
-					},
-					"result": {
-						"title": "El registre s'ha realitzat amb èxit i s'ha generat una clau privada de vot. Aquesta clau es gravarà al teu dispositiu. Per més seguretat, escriu-la també en un lloc segur. Si vols, ja pots votar.",
-						"buttons": {
-							"vote": "Votar",
-							"cancel": "Cancel·lar"
-						}
-					},
-					"repeated": {
-						"title": "Ja existeix un vot emès per aquest mateix usuari. No pots votar dos cops.",
-						"buttons": {
-							"checkVote": "'Comprovar el vot",
-							"cancel": "Cancel·lar"
-						}
-					},
-					"unprocessable": {
-						"title": "Les dades introduïdes no són correctes o no corresponen a un document vàlid.",
-						"buttons": {
-							"tryAgain": "Tornar a intentar-ho",
-							"cancel": "Cancel·lar"
-						}
-					} 
-				}
+				"true": "Ja t'has registrat",
+				"false": "Encara no t'has registrat"
 			},
 			"vote": {
-				"header": "Vota",
-				"modals": {
-					"notActive": {
-						"title": "Aquesta consulta no està activa. Només pots votar durant el període de votació.",
-						"buttons": {
-							"understood": "Entesos"
-						}
-					},
-					"notRegistered": {
-						"title": "Has de registrar-te per poder votar.",
-						"buttons": {
-							"understood": "Entesos"
-						}
-					},
-					"alreadyVoted": {
-						"title": "Ja has votat. Pots comprovar el teu vot o iniciar un nou registre (s'esborrarà l'anterior).",
-						"buttons": {
-							"checkVote": "Comprovar el meu vot",
-							"registerAgain": "Registrar-me un altre cop",
-							"cancel": "Cancel·lar"
-						}
-					},
-					"confirmVote": {
-						"title": "Vot: ",
-						"message": "Un cop dipositat el vot al sistema, no es pot modificar ni repetir. Confirma que vols dipositar el teu vot.",					
-						"buttons": {
-							"confirm": "Confirmar",
-							"cancel": "Cancel·lar"
-						}
-					},
-					"processing": {
-						"title": "Un moment, sisplau. Estem processant el vot."
-					},
-					"error": {
-						"title": "Error en processar les dades. Prova-ho un altre cop."
-					},
-					"nodata": {
-						"title": "Les dades del registre no s'han guardat correctament. Sisplau, registra't de nou." 	
-					},
-					"voteStatus": {
-						"title": { 
-							"pending": "Vot dipositat",
-							"committed": "Vot dipositat",
-							"unknown": "Vot enviat",
-							"invalid": "Vot invàlid",
-							"error": "Error en el vot"
-						},
-						"subtitle": { 
-							"pending": "El vot ha estat processat amb èxit i està pendent de validació. Pot trigar alguns minuts en quedar definitivament dipositat en el sistema. Sisplau, comprova'n l'estat més endavant.",
-							"committed": "El vot ha estat validat pels interventors i ha estat dipositat correctament al sistema. Gràcies per votar.",
-							"unknown": "L'estat del vot no s'ha pogut determinar amb certesa. Sisplau, comprova'n l'estat passats 10 minuts. Si no apareix com dipositat, hauries de tornar a enviar-lo. Disculpa les molèsties.",
-							"invalid": "El vot és invàlid i ha estat rebutjat pels interventors. Intenta enviar-lo un altre cop o torna a començar el procès amb un nou registre. Disculpa les molèsties.",
-							"repeated": "Aquest votant ja ha dipositat el seu vot anteriorment. No pots tornar a votar una segona vegada.",
-							"error": "S'ha produït un error i el vot no s'ha pogut processar. Sisplau, intenta enviar-lo de nou més endavant. Disculpa les molèsties."
-						},
-						"buttons": {
-							"understood": "Entesos"
-						}
-					}
+				"true": "Ja has votat",
+				"false": "Encara no has votat"
+			},
+			"key": "La teva clau privada és"
+		},
+		"change": {
+			"context": "Escollir una altra consulta",
+			"locale": "Canviar d'idioma"
+		}
+	},
+	"register": {
+		"header": "Registra't",
+		"action": "Registrar",
+		"instructions": {
+			"server": "Les dades seran enviades xifrades al servidor",
+			"general": "El servidor processarà de manera totalment automatitzada les dades per obtenir una clau personal. Un cop processada, aquesta informació no es guarda en cap base de dades. Enviant la informació, estàs acceptant les ",
+			"terms": "condicions d'ús",
+			"and": "i",
+			"privacy": "privacitat"
+		},
+		"picture": {
+			"take": "Fer una nova foto",
+			"read": "Utilitzar una foto guardada",
+			"cancel": "Cancel·lar",
+			"reading": "Llegint el document. Un moment, sisplau...",
+			"unprocessable": "La foto no ha pogut ser processada. Intenta-ho de nou o entra el codi a mà."
+		},
+		"modals": {
+			"notActive": {
+				"title": "Aquesta consulta no està activa. Només pots registrar-te durant el període de votació.",
+				"buttons": {
+					"understood": "Entesos"
 				}
 			},
-			"check": {
-				"header": "Comprova",
-				"form": {
-					"message": "No hi ha cap clau registrada en aquest dispositiu. Per obtenir una clau, has de registrar-te. Si vols comprovar l'estat d'un vot ja emés, introdueix la clau privada.",
-					"inputs": {
-						"privkey": {
-							"msg": "Entra la clau aquí."
-						}
-					},
-					"action": "Comprovar"
-				},
-				"status": {
-					"title": "Estat del vot",
-					"values": {
-						"found": "Vot confirmat",
-  						"unknown": "Vot no localitzat",
-						"error": "Vot no localitzat (error)",
-						"uncast": "Vot no emès"
-					}
-				},
-				"results": {
-					"final": "Resultats definitius",
-					"temporary": "Resultats provisionals",
-					"votes": "vots",
-					"votesCast": "Vots emesos",
-					"noResults": "No hi ha resultats per mostrar.",
-					"sealed": "Tancat"
-				},
-				"modals": {
-					"notStarted": {
-						"title": "Aquesta consulta encara no ha començat. Només pots comprovar els resultats durant i després del període de votació.",
-						"buttons": {
-							"understood": "Entendido"
-						}
-					},
-					"processing": {
-						"title": "Un moment, sisplau. Estem processant les dades.",
-						"error": "Error en intentar obtenir les dades de la xarxa. Sisplau, intenta-ho més endavant.",
-						"notfound": "No s'ha trobat cap vot amb aquesta clau. Si has votat fa poc, intenta-ho a provar més endavant, ja que potser encara no s'ha inscrit."
-					}
+			"alreadyVoted": {
+				"title": "Ja estàs registrat i has votat. Pots comprovar el teu vot o registrar un altre usuari diferent (es borraran les dades del registre anterior).",
+				"buttons": {
+					"checkVote": "Comprovar el meu vot",
+					"registerAgain": "Registrar noves dades",
+					"cancel": "Cancel·lar"
 				}
 			},
-			"tutorial": {
-				"first": {
-					"title": "Benvingut a la urna virtual",
-					"text": "Bitagora és una aplicación de blockchain per votar de forma anònima, segura i fiable en una consulta democràtica organitzada per ciutadans com tu. Aquí podràs obtenir una clau secreta i emetre el teu vot. La xarxa d'interventors de Bitagora l'inclourà en un registre públic i auditable."
-				},
-				"second": {
-					"title": "¿És secret el meu vot?",
-					"text": "El teu vot no inclou cap dada que permeti identificar-te personalment. Les dades que enviïs en registrar-te estan xifrades i no es guarden en cap servidor. Bitagora es limita a generar de manera automàtica una clau criptogràfica que et permet votar de forma totalmente confidencial."
-				},						
-				"third": {
-					"title": "¿És segur el meu vot?",
-					"text": "Gràcies a la criptografia, podem garantir que el teu vot sigui irrepetible i no pugui ser modificat per ningú. Només pots votar un cop en una mateixa consulta. La xarxa d'interventors comprovarà automàticament la validesa del vot abans d'inscriure'l al registre públic."
-				},								
-				"fourth": {
-					"title": "¿Com puc veure el meu vot?",
-					"text": "Amb la teva clau secreta, podràs comprovar l'estat del vot. Els vots poden trigar entre 10 minuts i una hora en ser processats per la xarxa. Si el teu vot no queda inscrit, pots tornar a votar. Però un cop el vot estigui inscrit al registre públic, no podràs votar de nou ni canviar el vot."
-				},
-				"fifth": {
-					"title": "Com puc saber més?",
-					"text1": "Per consultar els resultats de la votació o unir-te a la xarxa d'interventors:",
-					"text2": "Per obtenir més informació sobre el sistema de votació:"
-				}	
+			"alreadyRegistered": {
+				"title": "Ja estàs registrat, però encara no has votat. Pots anar a votar o tornar a registrar-te (es borrarà l'anterior registre).",
+				"buttons": {
+					"checkVote": "Comprovar el meu vot",
+					"registerAgain": "Registrar-me un altre cop",
+					"cancel": "Cancel·lar"
+				}
+			},
+			"processing": {
+				"title": "Un moment, sisplau. Estem processant les dades.",
+				"error": "Error en processar les dades. Assegura't que la informació introduïda és correcta i torna a provar-ho."
+			},
+			"result": {
+				"title": "El registre s'ha realitzat amb èxit i s'ha generat una clau privada de vot. Aquesta clau es gravarà al teu dispositiu. Per més seguretat, escriu-la també en un lloc segur. Si vols, ja pots votar.",
+				"buttons": {
+					"vote": "Votar",
+					"cancel": "Cancel·lar"
+				}
+			},
+			"repeated": {
+				"title": "Ja existeix un vot emès per aquest mateix usuari. No pots votar dos cops.",
+				"buttons": {
+					"checkVote": "'Comprovar el vot",
+					"cancel": "Cancel·lar"
+				}
+			},
+			"unprocessable": {
+				"title": "Les dades introduïdes no són correctes o no corresponen a un document vàlid.",
+				"buttons": {
+					"tryAgain": "Tornar a intentar-ho",
+					"cancel": "Cancel·lar"
+				}
 			}
+		}
+	},
+	"vote": {
+		"header": "Vota",
+		"modals": {
+			"notActive": {
+				"title": "Aquesta consulta no està activa. Només pots votar durant el període de votació.",
+				"buttons": {
+					"understood": "Entesos"
+				}
+			},
+			"notRegistered": {
+				"title": "Has de registrar-te per poder votar.",
+				"buttons": {
+					"understood": "Entesos"
+				}
+			},
+			"alreadyVoted": {
+				"title": "Ja has votat. Pots comprovar el teu vot o iniciar un nou registre (s'esborrarà l'anterior).",
+				"buttons": {
+					"checkVote": "Comprovar el meu vot",
+					"registerAgain": "Registrar-me un altre cop",
+					"cancel": "Cancel·lar"
+				}
+			},
+			"confirmVote": {
+				"title": "Vot: ",
+				"message": "Un cop dipositat el vot al sistema, no es pot modificar ni repetir. Confirma que vols dipositar el teu vot.",
+				"buttons": {
+					"confirm": "Confirmar",
+					"cancel": "Cancel·lar"
+				}
+			},
+			"processing": {
+				"title": "Un moment, sisplau. Estem processant el vot."
+			},
+			"error": {
+				"title": "Error en processar les dades. Prova-ho un altre cop."
+			},
+			"nodata": {
+				"title": "Les dades del registre no s'han guardat correctament. Sisplau, registra't de nou."
+			},
+			"voteStatus": {
+				"title": {
+					"pending": "Vot dipositat",
+					"committed": "Vot dipositat",
+					"unknown": "Vot enviat",
+					"invalid": "Vot invàlid",
+					"error": "Error en el vot"
+				},
+				"subtitle": {
+					"pending": "El vot ha estat processat amb èxit i està pendent de validació. Pot trigar alguns minuts en quedar definitivament dipositat en el sistema. Sisplau, comprova'n l'estat més endavant.",
+					"committed": "El vot ha estat validat pels interventors i ha estat dipositat correctament al sistema. Gràcies per votar.",
+					"unknown": "L'estat del vot no s'ha pogut determinar amb certesa. Sisplau, comprova'n l'estat passats 10 minuts. Si no apareix com dipositat, hauries de tornar a enviar-lo. Disculpa les molèsties.",
+					"invalid": "El vot és invàlid i ha estat rebutjat pels interventors. Intenta enviar-lo un altre cop o torna a començar el procès amb un nou registre. Disculpa les molèsties.",
+					"repeated": "Aquest votant ja ha dipositat el seu vot anteriorment. No pots tornar a votar una segona vegada.",
+					"error": "S'ha produït un error i el vot no s'ha pogut processar. Sisplau, intenta enviar-lo de nou més endavant. Disculpa les molèsties."
+				},
+				"buttons": {
+					"understood": "Entesos"
+				}
+			}
+		}
+	},
+	"check": {
+		"header": "Comprova",
+		"form": {
+			"message": "No hi ha cap clau registrada en aquest dispositiu. Per obtenir una clau, has de registrar-te. Si vols comprovar l'estat d'un vot ja emés, introdueix la clau privada.",
+			"inputs": {
+				"privkey": {
+					"msg": "Entra la clau aquí."
+				}
+			},
+			"action": "Comprovar"
+		},
+		"status": {
+			"title": "Estat del vot",
+			"values": {
+				"found": "Vot confirmat",
+				"unknown": "Vot no localitzat",
+				"error": "Vot no localitzat (error)",
+				"uncast": "Vot no emès"
+			}
+		},
+		"results": {
+			"final": "Resultats definitius",
+			"temporary": "Resultats provisionals",
+			"votes": "vots",
+			"votesCast": "Vots emesos",
+			"noResults": "No hi ha resultats per mostrar.",
+			"sealed": "Tancat"
+		},
+		"modals": {
+			"notStarted": {
+				"title": "Aquesta consulta encara no ha començat. Només pots comprovar els resultats durant i després del període de votació.",
+				"buttons": {
+					"understood": "Entendido"
+				}
+			},
+			"processing": {
+				"title": "Un moment, sisplau. Estem processant les dades.",
+				"error": "Error en intentar obtenir les dades de la xarxa. Sisplau, intenta-ho més endavant.",
+				"notfound": "No s'ha trobat cap vot amb aquesta clau. Si has votat fa poc, intenta-ho a provar més endavant, ja que potser encara no s'ha inscrit."
+			}
+		}
+	},
+	"tutorial": {
+		"first": {
+			"title": "Benvingut a la urna virtual",
+			"text": "Bitagora és una aplicación de blockchain per votar de forma anònima, segura i fiable en una consulta democràtica organitzada per ciutadans com tu. Aquí podràs obtenir una clau secreta i emetre el teu vot. La xarxa d'interventors de Bitagora l'inclourà en un registre públic i auditable."
+		},
+		"second": {
+			"title": "¿És secret el meu vot?",
+			"text": "El teu vot no inclou cap dada que permeti identificar-te personalment. Les dades que enviïs en registrar-te estan xifrades i no es guarden en cap servidor. Bitagora es limita a generar de manera automàtica una clau criptogràfica que et permet votar de forma totalmente confidencial."
+		},
+		"third": {
+			"title": "¿És segur el meu vot?",
+			"text": "Gràcies a la criptografia, podem garantir que el teu vot sigui irrepetible i no pugui ser modificat per ningú. Només pots votar un cop en una mateixa consulta. La xarxa d'interventors comprovarà automàticament la validesa del vot abans d'inscriure'l al registre públic."
+		},
+		"fourth": {
+			"title": "¿Com puc veure el meu vot?",
+			"text": "Amb la teva clau secreta, podràs comprovar l'estat del vot. Els vots poden trigar entre 10 minuts i una hora en ser processats per la xarxa. Si el teu vot no queda inscrit, pots tornar a votar. Però un cop el vot estigui inscrit al registre públic, no podràs votar de nou ni canviar el vot."
+		},
+		"fifth": {
+			"title": "Com puc saber més?",
+			"text1": "Per consultar els resultats de la votació o unir-te a la xarxa d'interventors:",
+			"text2": "Per obtenir més informació sobre el sistema de votació:"
+		}
+	}
 }
