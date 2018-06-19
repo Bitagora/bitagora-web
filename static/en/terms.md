@@ -69,6 +69,6 @@ THE USER EXPRESSLY KNOWS AND AGREES THAT THE USER IS USING THE BITAGORA PLATFORM
 
 Bitagora may revise this Agreement at any time without notice, and such revisions will be effective upon being posted on Bitagora's website (https://bitagora.cc). Links to the updated version of the Terms will be provided in the software distributions of Bitagora Node and Bitagora Booth, as well as in any websites under administration of the Bitagora Team. 
 
-Last modified on: {{ page.last_modified_at }}
+Last modified on: {% last_modified_at %}
 
 [back](../../../.)
