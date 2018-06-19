@@ -3,3 +3,5 @@ logo: /assets/img/bitagora-full-logo.png
 description: Bitagora web page at GitHub
 google_analytics:
 theme: jekyll-theme-minimal
+gems:
+  - jekyll-last-modified-at
