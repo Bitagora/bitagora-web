@@ -19,7 +19,8 @@
   "sponsor":
     {
       "name":"Piratas",
-      "email":"mail@email.com"
+      "email":"mail@email.com",
+      "link": "http://www.google.com"
     },
   "identification":
     {
