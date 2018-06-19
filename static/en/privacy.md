@@ -3,6 +3,8 @@ layout: default
 ---
 ## Privacy policy
 
+The following Privacy Policy is part of the [Terms of service](terms.md) to which every User of the Bitagora Platform agrees to abide when using any component of the Platform. 
+
 ### 1. Personal information
 1.	Bitagora is committed to safeguarding the confidentiality and privacy of any personal information provided to the system by users when registering to vote with the Bitagora Platform.
 2.	This policy applies where Bitagora is acting as the data controller agent with respect to the registration of data for polls conducted with the Bitagora system, that is, wherever Bitagora determines the purposes and means of the processing of that registration data. This includes data processed by any Bitagora controlled server (Bitagora registration API) as well as by client-based web and mobile voting booths (Bitagora Booth).
@@ -49,5 +51,7 @@ layout: default
 
 ### 5. Contact
 1.	If you have any queries regarding this policy, you can contact Bitagora by email at [mail@bitagora.cc](mailto:mail@bitagora.cc).
+
+Last modified on: June 19, 2018
 
 [back](../../../.)
