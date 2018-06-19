@@ -3,7 +3,7 @@ layout: default
 ---
 ## Terms of service
 
-The following Terms and Conditions (“Terms”) govern the use of the Bitagora voting platform (“Bitagora Platform”). The Bitagora Platform consists on the open-source software applications Bitagora Node and Bitagora Booth, as well as any other websites, networks, servers and applications deployed as part of the polls being conducted with these software packages.  
+The following Terms of Service (“Terms”) govern the use of the Bitagora voting platform (“Bitagora Platform”). The Bitagora Platform consists on the open-source software applications Bitagora Node and Bitagora Booth, as well as any other websites, networks, servers and applications deployed as part of the polls being conducted with these software packages.  
 
 Prior to any use of the Bitagora Platform, the user confirms to understand and expressly agrees to all of these Terms, as well as to the [Privacy Policy](./privacy.md) ("Privacy Policy") provided together with the Terms. All capitalized terms in this agreement will be given the same effect and meaning as in the Terms. 
 
@@ -69,6 +69,6 @@ THE USER EXPRESSLY KNOWS AND AGREES THAT THE USER IS USING THE BITAGORA PLATFORM
 
 Bitagora may revise this Agreement at any time without notice, and such revisions will be effective upon being posted on Bitagora's website (https://bitagora.cc). Links to the updated version of the Terms will be provided in the software distributions of Bitagora Node and Bitagora Booth, as well as in any websites under administration of the Bitagora Team. 
 
-Last modified on: {{ file.mtime }}
+Last modified on: {{ page.last_modified_at | date: '%Y:%B:%A:%d:%S:%R' }}
 
 [back](../../../.)
