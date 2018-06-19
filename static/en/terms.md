@@ -33,7 +33,7 @@ The user agrees that Bitagora and the Bitagora Team will not be held responsible
 
 Bitagora and the Bitagora Team agree that the user will not be held responsible for any claims, damages, demands or fees arising out of any breach by Bitagora or the Bitagora Team of this Agreement, the Privacy Policy or infringements on the rights of any third parties related to the use of the Bitagora Platform.
 
-### Acknowledgement of risks
+### Risks
 
 The user acknowledges the following risks to any use the Bitagora Platform and expressly agrees to neither hold Bitagora or the Bitagora Team liable should any of the following risks occur:
 
