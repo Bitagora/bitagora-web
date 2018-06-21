@@ -3,7 +3,7 @@ layout: default
 ---
 # Bitagora Node
 
-![version](https://img.shields.io/badge/version-0.0.2-blue.svg) 
+![version](https://img.shields.io/badge/version-0.0.2-green.svg) 
 ![Hex.pm](https://img.shields.io/hexpm/l/plug.svg)
 
 
