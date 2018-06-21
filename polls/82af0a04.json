@@ -31,6 +31,13 @@
   "registerServer":"http://195.140.215.253/",
   "nodeSeed": ["195.140.215.253"],
   "locales": ["es","ca","eu","gl","en"],
+  "localeNames": {
+		"es": "Castellano",
+		"ca": "Català",
+		"eu": "Euskara",
+		"gl": "Galego",
+		"en": "English"
+	},
   "views":
     {
       "es":
