@@ -3,7 +3,9 @@ layout: default
 ---
 # Bitagora Node
 
-![version](https://img.shields.io/badge/version-0.0.2-blue.svg)
+![version](https://img.shields.io/badge/version-0.0.2-blue.svg) 
+![Hex.pm](https://img.shields.io/hexpm/l/plug.svg)
+
 
 Bitagora Node is a distributed application to validate votes and maintain the Bitagora
 blockchain voting system. Validator nodes play an indispensable role in sustaining reliable,
