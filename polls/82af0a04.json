@@ -55,7 +55,7 @@
             },
           "register": 
             {
-              "sampleLink":"../assets/img/dni-sample.svg",
+              "sampleLink":"../../assets/img/dni-sample.svg",
               "instructions": 
                 { 
                   "specific": "Introduce las tres líneas del código que aparece en la parte trasera de tu DNI, sin olvidar ningún carácter. También puedes tomar una fotografía con tu móvil." 
