@@ -24,7 +24,7 @@
   "identification":
     {
       "state":"ES",
-      "pattern":"ESP_id_pattern.txt",
+      "pattern":"IDESP\A\A\A\A\d\d\d\d\d\d\d\d\d\d\d\d\d\d\d\A<<<<<<\n\d\d\d\d\d\d\d[MF]\d\d\d\d\d\d\dESP<<<<<<<<<<<\d\n[A-ZÑ<]\*\n",
       "language":"spa",
       "characters":">ABCDEFGHIJKLMNOPQRSTUVWXYZÑ1234567890"
     },
