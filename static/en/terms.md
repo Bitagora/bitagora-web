@@ -5,17 +5,19 @@ layout: default
 
 The following Terms of Service (“Terms”) govern the use of the Bitagora voting platform (“Bitagora Platform”). The Bitagora Platform consists on the open-source software applications Bitagora Node and Bitagora Booth, as well as any other websites, networks, servers and applications deployed as part of the polls being conducted with these software packages.  
 
-Prior to any use of the Bitagora Platform, the user confirms to understand and expressly agrees to all of these Terms, as well as to the [Privacy Policy](./privacy.md) ("Privacy Policy") provided together with the Terms. All capitalized terms in this agreement will be given the same effect and meaning as in the Terms. 
+Prior to any use of the Bitagora Platform, the User confirms to understand and expressly agrees to all of these Terms, as well as to the [Privacy Policy](./privacy.md) ("Privacy Policy") provided together with the Terms. All capitalized terms in this agreement will be given the same effect and meaning as in the Terms.
+
+The purpose and function of the Bitagora Platform is to facilitate the celebration of confidential, reliable and secure elections or polls ("Polls") through a decentralized validation system sustained on a blockchain public ledger.
 
 The group of developers and other personnel that is now, or will be, involved in the development, promotion or management of the Bitagora Platform is named the “Bitagora Team.” The Platform will be developed by persons and entities who support Bitagora, including both volunteers and developers who are paid by nonprofit entities interested in supporting the Bitagora Platform.
 
-Potential users of the Bitagora Platform ("User" or "Users") include individuals or collectives who sponsor and promote a poll through the Bitagora Platform, individual voters that use the Bitagora Platform to cast a ballot in a poll, individuals or collectives who install the Bitagora Node software on their systems and join the Bitagora validator network, as well as any other person or groups who use the Bitagora Platform for any foreseeable purpose.
+Potential users of the Bitagora Platform ("Users") include individuals or collectives who sponsor and promote a Poll through the Bitagora Platform ("Sponsors"), individual voters that use the Bitagora Platform to cast a ballot in a Poll ("Voters"), individuals or collectives who install the Bitagora Node software on their systems and join the Bitagora validator network ("Validators"), as well as any other person or groups who use the Bitagora Platform for any foreseeable purpose.
 
 ### Limitation of liability
 
 Except as expressly set forth herein, Bitagora and the Bitagora Team will not be liable for any damages incurred in connection with the use of the Bitagora Platform. This includes any direct, indirect, consequential or incidental damages that may arise from the use of the Bitagora Platform, the failure of the Bitagora Platform, or the termination of access to the Bitagora Platform. This limitation of liability will also apply to any loss of data, information or content through failure of the Bitagora Platform or interruption of service. Bitagora and the Bitagora Team will not be liable for any harm or loss arising from unauthorized access to data, information or transmission, including, but not limited to tangible or intangible loss of revenues, profits, data or information.
 
-Except as expressly set forth herein, the User agrees that Bitagora and the Bitagora Team are not liable for any damages arising from the interruption, cancellation or suspension of the Bitagora Platform, regardless of whether the failure of the Bitagora Platform is announced, justified, or negligent.
+Except as expressly set forth herein, the User agrees that Bitagora and the Bitagora Team are not liable for any damages arising from the interruption, cancellation or suspension of the Bitagora Platform service, regardless of whether the failure of the Bitagora Platform is announced, justified, or negligent.
 
 ### General disclaimer
 
@@ -25,17 +27,21 @@ The User understands and represents that all data, information or other material
 
 ### Specific disclaimer
 
-Bitagora and the Bitagora Team disclaims all responsibilities regarding the nature, content and implications of polls conducted with the Bitagora Platform, including all legal and regulatory consequences that may be derived in any jurisdiction from the celebration of such a poll. Users of the Bitagora Platform participate in polls conducted using the Bitagora Platform out of their free will and agree that Bitagora and the Bitagora Team are not responsible for any legal or regulatory liabilities that may be derived from their participation in these polls.
+Bitagora and the Bitagora Team disclaims all responsibilities regarding the nature, content and implications of Polls conducted with the Bitagora Platform, including all legal and regulatory consequences that may be derived in any jurisdiction from the celebration of such Polls. 
+
+Polls using the Bitagora Platform are promoted, supervised and managed by third-party Sponsors, who assume the sole responsibility for the legal and regulatory consequences of the Poll. By launching a Poll using the Bitagora Platform, Sponsors agree that Bitagora and the Bitagora Team have no responsibility whatsoever over the celebration or management of such a Poll, where Bitagora acts as the data controller agent for the Poll.
+
+Voters participate in Polls conducted using the Bitagora Platform out of their free will and agree that Bitagora and the Bitagora Team are not responsible for any legal or regulatory liabilities that may be derived from their participation in these Polls.
 
 ### Indemnification
 
-The user agrees that Bitagora and the Bitagora Team will not be held responsible for any claims, damages, demands or fees arising out of any breach by the user of these Terms, the Privacy Policy, or infringements on the rights of any third parties related to your use of Bitagora Platform. The user also agrees to indemnify Bitagora and the Bitagora Team for any and all claims that may arise.
+The User agrees that Bitagora and the Bitagora Team will not be held responsible for any claims, damages, demands or fees arising out of any breach by the user of these Terms, the Privacy Policy, or infringements on the rights of any third parties related to your use of Bitagora Platform. The user also agrees to indemnify Bitagora and the Bitagora Team for any and all claims that may arise.
 
-Bitagora and the Bitagora Team agree that the user will not be held responsible for any claims, damages, demands or fees arising out of any breach by Bitagora or the Bitagora Team of this Agreement, the Privacy Policy or infringements on the rights of any third parties related to the use of the Bitagora Platform.
+Bitagora and the Bitagora Team agree that the User will not be held responsible for any claims, damages, demands or fees arising out of any breach by Bitagora or the Bitagora Team of this Agreement, the Privacy Policy or infringements on the rights of any third parties related to the use of the Bitagora Platform.
 
 ### Risks
 
-The user acknowledges the following risks to any use the Bitagora Platform and expressly agrees to neither hold Bitagora or the Bitagora Team liable should any of the following risks occur:
+The User acknowledges the following risks to any use the Bitagora Platform and expressly agrees to neither hold Bitagora or the Bitagora Team liable should any of the following risks occur:
 
 #### Risk of regulatory actions in one or more jurisdictions
 The Bitagora Platform could be impacted by one or more regulatory inquiries or regulatory actions, which could impede or limit the ability of the Bitagora Platform to continue to operate, or which could impede or limit the ability of a user to use the Bitagora Platform in one way or another.
@@ -69,6 +75,6 @@ THE USER EXPRESSLY KNOWS AND AGREES THAT THE USER IS USING THE BITAGORA PLATFORM
 
 Bitagora may revise this Agreement at any time without notice, and such revisions will be effective upon being posted on Bitagora's website (https://bitagora.cc). Links to the updated version of the Terms will be provided in the software distributions of Bitagora Node and Bitagora Booth, as well as in any websites under administration of the Bitagora Team. 
 
-Last modified on: June 19, 2018
+Last modified on: June 22, 2018
 
 [back](../../../.)
