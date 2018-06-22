@@ -8,7 +8,7 @@ The following Privacy Policy ("Policy") is part of the [Terms of service](terms.
 ### 1. Personal information
 1.	Bitagora is committed to safeguarding the confidentiality and privacy of any personal information provided to the system by Users when registering to vote with the Bitagora Platform.
 2.	This policy applies where Bitagora is acting as the data controller agent with respect to the registration of data for polls conducted with the Bitagora Platform, that is, wherever Bitagora determines the purposes and means of the processing of that registration data. This includes data processed by any Bitagora controlled server (Bitagora registration API) as well as by client-based web and mobile voting booths (Bitagora Booth).
-3. This policy does not apply to any instance where a third party acts as the data controller agent with respect to the registration of data for polls conducted with the Bitagora Platform or where the Bitagora Platform or the software has been forked or modified to be used under the available license by any third party.
+3. This policy does not apply to any instance where a third party acts as the data controller agent with respect to the registration of data for polls conducted with the Bitagora Platform or where the Bitagora Platform or the software has been forked or modified to be used under the available license by any third party. In particular, this Policy does not apply wherever the Sponsor of a poll acts as the data controller of the poll. In that case, it is the Sponsor who is responsible for ensuring that the personal information of voters is handled in accordance with applicable laws in all relevant jurisdictions. Users and Sponsors using the Bitagora Platform acknowledge and accept that Bitagora and the Bitagora Team have no responsibility whatsoever in those cases where Bitagora is not acting as the data controller agent. 
 4. Bitagora NEVER stores, keeps or saves the personal information of Users anywhere, under any circumstance. 
 5. During the registration process, the Bitagora registration API will process the User's ID number, date of birth, name, and other data that the User might consent to provide when using the Bitagora Booth web or mobile applications. This information is used to produce a unique Private Voting Key. This key is calculated automatically without any human intervention using a one-way cryptographic hashing algorithm.
 6. The algorithm used to produce the Private Voting Key ensures with sufficient confidence that 
@@ -35,7 +35,7 @@ The following Privacy Policy ("Policy") is part of the [Terms of service](terms.
 
 ### 3. Data stored locally
 1.	Bitagora Booth client-based web and mobile applications run on the user's device and use local storage to store information about the user's registration and ballot.
-2. Except for the purpose of registration (see point 1 above), the information stored in the user's device is not sent to Bitagora's server at any point.
+2. Except for the purpose of registration (see point 1 above), the information stored in the user's device is not sent to any server at any point.
 3. Users can delete the information stored in their device at their will. When uninstalling Bitagora Booth web or mobile applications, this data is automatically deleted from the device.
 4.	When using Bitagora Booth web or mobile applications, blocking local storage is not recommended as it will disable the application's functionality.
 
@@ -54,6 +54,6 @@ The following Privacy Policy ("Policy") is part of the [Terms of service](terms.
 ### 6. Contact
 1.	If you have any queries regarding this policy, you can contact Bitagora by email at [mail@bitagora.cc](mailto:mail@bitagora.cc).
 
-Last modified on: June 19, 2018
+Last modified on: June 22, 2018
 
 [back](../../../.)
