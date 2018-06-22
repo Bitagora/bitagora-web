@@ -16,7 +16,7 @@ Sawtooth.
 ## Contents
 
 - [Components](#components)
-- [Terms](#terms)
+- [Terms and conditions](#terms-and-conditions)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Support](#support)
@@ -37,7 +37,7 @@ includes a number of elements to manage the Bitagora blockchain:
 - rest-api: a **rest-api** that receives and provides poll and ballot data from clients
 - shell: a **shell** container with the dependencies to run Bitagora commands to interact with the blockchain
 
-## Terms
+## Terms and conditions
 
 Before installing a Bitagora validator node in your system, you should read our [Terms of service](../../static/en/terms.md) and [Privacy policy](../../static/en/policy.md). By installing a node, you are expressly acknowledging and agreeing to the terms and conditions detailed in these documents.
 
