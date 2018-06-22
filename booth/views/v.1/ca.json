@@ -1,6 +1,6 @@
 {
 	"front": {
-		"header": "Urna virtual de Bitagora",
+		"header": "Urna virtual",
 		"prompt": "Entra un codi",
 		"submit": "Enviar",
 		"return": "Tornar enrere",
@@ -21,7 +21,7 @@
 			"heading": "Pots participar si tens"
 		},
 		"sponsor": {
-			"heading": "Consulta promoguda per"
+			"heading": "Consulta organitzada per"
 		},
 		"state": {
 			"heading": "",
