@@ -19,7 +19,8 @@
     {
       "name":"Piratas",
       "email":"mail@email.com",
-      "link": "http://www.google.com"
+      "link": "http://www.google.com",
+      "logo": "piratalogo.png"
     },
   "identification":
     {
