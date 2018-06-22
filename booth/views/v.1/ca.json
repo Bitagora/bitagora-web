@@ -217,21 +217,20 @@
 			"text": "Bitagora és una aplicación de blockchain per votar de forma anònima, segura i fiable en una consulta democràtica organitzada per ciutadans com tu. Aquí podràs obtenir una clau secreta i emetre el teu vot. La xarxa d'interventors de Bitagora l'inclourà en un registre públic i auditable."
 		},
 		"second": {
-			"title": "¿És secret el meu vot?",
+			"title": "És secret el meu vot?",
 			"text": "El teu vot no inclou cap dada que permeti identificar-te personalment. Les dades que enviïs en registrar-te estan xifrades i no es guarden en cap servidor. Bitagora es limita a generar de manera automàtica una clau criptogràfica que et permet votar de forma totalmente confidencial."
 		},
 		"third": {
-			"title": "¿És segur el meu vot?",
+			"title": "És segur el meu vot?",
 			"text": "Gràcies a la criptografia, podem garantir que el teu vot sigui irrepetible i no pugui ser modificat per ningú. Només pots votar un cop en una mateixa consulta. La xarxa d'interventors comprovarà automàticament la validesa del vot abans d'inscriure'l al registre públic."
 		},
 		"fourth": {
-			"title": "¿Com puc veure el meu vot?",
+			"title": "Com puc veure el meu vot?",
 			"text": "Amb la teva clau secreta, podràs comprovar l'estat del vot. Els vots poden trigar entre 10 minuts i una hora en ser processats per la xarxa. Si el teu vot no queda inscrit, pots tornar a votar. Però un cop el vot estigui inscrit al registre públic, no podràs votar de nou ni canviar el vot."
 		},
 		"fifth": {
 			"title": "Com puc saber més?",
 			"text1": "Per consultar els resultats de la votació o unir-te a la xarxa d'interventors:",
-			"text2": "Per obtenir més informació sobre el sistema de votació:"
 		}
 	}
 }
