@@ -3,11 +3,11 @@ layout: default
 ---
 ## Terms of service
 
-The following Terms of Service (“Terms”) govern the use of the Bitagora voting platform (“Bitagora Platform”). The Bitagora Platform consists on the open-source software applications Bitagora Node and Bitagora Booth, as well as any other websites, networks, servers and applications deployed as part of the polls being conducted with these software packages.  
+The following Terms of Service (“Terms”) govern the use of the Bitagora voting platform (“Bitagora Platform”). The Bitagora Platform consists on the open-source software applications Bitagora Node and Bitagora Booth, as well as any other websites, networks, servers and applications deployed as part of the elections or polls ("Polls") being conducted with these software packages.  
 
 Prior to any use of the Bitagora Platform, the User confirms to understand and expressly agrees to all of these Terms, as well as to the [Privacy Policy](./privacy.md) ("Privacy Policy") provided together with the Terms. All capitalized terms in this agreement will be given the same effect and meaning as in the Terms.
 
-The purpose and function of the Bitagora Platform is to facilitate the celebration of confidential, reliable and secure elections or polls ("Polls") through a decentralized validation system sustained on a blockchain public ledger.
+The purpose and function of the Bitagora Platform is to facilitate the celebration of confidential, reliable and secure Polls through a decentralized validation system sustained on a blockchain public ledger.
 
 The group of developers and other personnel that is now, or will be, involved in the development, promotion or management of the Bitagora Platform is named the “Bitagora Team.” The Platform will be developed by persons and entities who support Bitagora, including both volunteers and developers who are paid by nonprofit entities interested in supporting the Bitagora Platform.
 
@@ -44,7 +44,7 @@ Bitagora and the Bitagora Team agree that the User will not be held responsible 
 The User acknowledges the following risks to any use the Bitagora Platform and expressly agrees to neither hold Bitagora or the Bitagora Team liable should any of the following risks occur:
 
 #### Risk of regulatory actions in one or more jurisdictions
-The Bitagora Platform could be impacted by one or more regulatory inquiries or regulatory actions, which could impede or limit the ability of the Bitagora Platform to continue to operate, or which could impede or limit the ability of a user to use the Bitagora Platform in one way or another.
+The Bitagora Platform, as well as Polls conducted with the Bitagora Platform, could be impacted by one or more regulatory inquiries or regulatory actions, which could impede or limit the ability of the Bitagora Platform to continue to operate, or which could impede or limit the ability of a user to use the Bitagora Platform in one way or another.
 
 #### Risk of alternative networks using the Bitagora software
 It is possible that alternative Bitagora-based networks could be established, which utilize the same open-source source code and open-source protocol underlying the Bitagora Platform. The Bitagora network may conflict with these alternative Bitagora-based networks, which could potentially negatively impact the Bitagora Platform.
@@ -75,6 +75,6 @@ THE USER EXPRESSLY KNOWS AND AGREES THAT THE USER IS USING THE BITAGORA PLATFORM
 
 Bitagora may revise this Agreement at any time without notice, and such revisions will be effective upon being posted on Bitagora's website (https://bitagora.cc). Links to the updated version of the Terms will be provided in the software distributions of Bitagora Node and Bitagora Booth, as well as in any websites under administration of the Bitagora Team. 
 
-Last modified on: June 22, 2018
+Last modified on: June 23, 2018
 
 [back](../../../.)
