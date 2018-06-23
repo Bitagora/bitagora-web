@@ -226,7 +226,7 @@
 		},
 		"fourth": {
 			"title": "Com puc veure el meu vot?",
-			"text": "Amb la teva clau secreta, podràs comprovar l'estat del vot. Els vots poden trigar entre 10 minuts i una hora en ser processats per la xarxa. Si el teu vot no queda inscrit, pots tornar a votar. Però un cop el vot estigui inscrit al registre públic, no podràs votar de nou ni canviar el vot."
+			"text": "Amb la teva clau secreta, podràs comprovar l'estat del vot. Els vots poden trigar alguns minuts en ser processats per la xarxa. Si el teu vot no queda inscrit, pots tornar a votar. Però un cop el vot estigui inscrit al registre públic, no podràs votar de nou ni canviar el vot."
 		},
 		"fifth": {
 			"title": "Com puc saber més?",
