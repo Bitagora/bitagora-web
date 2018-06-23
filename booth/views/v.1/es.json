@@ -234,7 +234,7 @@
 		},								
 		"fourth": {
 			"title": "¿Cómo puedo ver mi voto?",
-			"text": "Con tu clave secreta, podrás comprobar el estado de tu voto. Los votos pueden tardar entre 10 minutos y una hora en ser procesados por la red. Si tu voto no queda inscrito, puedes volver a votar. Pero una vez el voto esté inscrito en el registro público, no podrás votar de nuevo ni cambiar el voto."
+			"text": "Con tu clave secreta, podrás comprobar el estado de tu voto. Los votos pueden tardar algunos minutos y una hora en ser procesados por la red. Si tu voto no queda inscrito, puedes volver a votar. Pero una vez el voto esté inscrito en el registro público, no podrás votar de nuevo ni cambiar el voto."
 		},
 		"fifth": {
 			"title": "¿Cómo puedo saber más?",
