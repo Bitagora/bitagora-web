@@ -222,7 +222,7 @@
 	"tutorial": {
 		"first": {
 			"title": "Bienvenido a la urna virtual",
-			"text": "Bitagora  es una aplicación de blockchain para votar de forma anónima, segura y fiable en una consulta democrática organizada por ciudadanos como tú. Desde esta aplicación, podrás obtener una clave secreta y emitir tu voto. Luego la red de interventores de Bitagora lo incluirá en un registro público y auditable."
+			"text": "Bitagora  es una aplicación de blockchain para votar de forma anónima, segura y fiable en una consulta democrática organizada por ciudadanos como tú. Desde esta aplicación, podrás obtener una clave secreta y emitir tu voto. Una red descentralizada de interventores lo incluirá en un registro público y auditable."
 		},
 		"second": {
 			"title": "¿Es mi voto secreto?",
