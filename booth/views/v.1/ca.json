@@ -45,10 +45,10 @@
 		"action": "Registrar",
 		"instructions": {
 			"server": "Les dades seran enviades xifrades al servidor",
-			"general": "El servidor processarà de manera totalment automatitzada les dades per obtenir una clau personal. Un cop processada, aquesta informació no es guarda en cap base de dades. Enviant la informació, estàs acceptant les ",
-			"terms": "condicions d'ús",
+			"general": "El servidor processarà de manera totalment automatitzada les dades per obtenir una clau personal. Un cop processada, aquesta informació no es guarda en cap base de dades. Enviant la informació, estàs acceptant ",
+			"terms": "les condicions d'ús",
 			"and": "i",
-			"privacy": "privacitat"
+			"privacy": "la política de privacitat"
 		},
 		"picture": {
 			"take": "Fer una nova foto",
@@ -214,7 +214,7 @@
 	"tutorial": {
 		"first": {
 			"title": "Benvingut a la urna virtual",
-			"text": "Bitagora és una aplicación de blockchain per votar de forma anònima, segura i fiable en una consulta democràtica organitzada per ciutadans com tu. Aquí podràs obtenir una clau secreta i emetre el teu vot. Una xarxa descentralitzada d'interventors l'inclourà en un registre públic i auditable."
+			"text": "Bitagora és una aplicació de blockchain per votar de forma anònima, segura i fiable en una consulta democràtica organitzada per ciutadans com tu. Aquí podràs obtenir una clau secreta i emetre el teu vot. Una xarxa descentralitzada d'interventors l'inclourà en un registre públic i auditable."
 		},
 		"second": {
 			"title": "És secret el meu vot?",
