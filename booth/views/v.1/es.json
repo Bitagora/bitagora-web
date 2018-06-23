@@ -226,7 +226,7 @@
 		},
 		"second": {
 			"title": "¿Es mi voto secreto?",
-			"text": "Tu voto no incluye ningún dato que pueda permitir identificarte personalmente. Los datos que envias al registrarte están cifrados y no se almacenan en ningún servidor. Bitagora se limita a generar de manera automática una clave criptográfica que te permite votar de forma totalmente confidencial."
+			"text": "Tu voto no incluye ningún dato que pueda permitir identificarte personalmente. Los datos que envias al registrarte están cifrados y no se almacenan en ningún servidor. El servidor se limita a generar de manera automática una clave criptográfica que te permite votar de forma totalmente confidencial."
 		},						
 		"third": {
 			"title": "¿Es mi voto seguro?",
