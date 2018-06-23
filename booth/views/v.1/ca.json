@@ -214,11 +214,11 @@
 	"tutorial": {
 		"first": {
 			"title": "Benvingut a la urna virtual",
-			"text": "Bitagora és una aplicación de blockchain per votar de forma anònima, segura i fiable en una consulta democràtica organitzada per ciutadans com tu. Aquí podràs obtenir una clau secreta i emetre el teu vot. La xarxa d'interventors de Bitagora l'inclourà en un registre públic i auditable."
+			"text": "Bitagora és una aplicación de blockchain per votar de forma anònima, segura i fiable en una consulta democràtica organitzada per ciutadans com tu. Aquí podràs obtenir una clau secreta i emetre el teu vot. Una xarxa descentralitzada d'interventors l'inclourà en un registre públic i auditable."
 		},
 		"second": {
 			"title": "És secret el meu vot?",
-			"text": "El teu vot no inclou cap dada que permeti identificar-te personalment. Les dades que enviïs en registrar-te estan xifrades i no es guarden en cap servidor. Bitagora es limita a generar de manera automàtica una clau criptogràfica que et permet votar de forma totalmente confidencial."
+			"text": "El teu vot no inclou cap dada que permeti identificar-te personalment. Les dades que envies en registrar-te estan xifrades i no es guarden en cap servidor. El servidor es limita a generar automàticament una clau criptogràfica que et permet votar de forma totalmente confidencial."
 		},
 		"third": {
 			"title": "És segur el meu vot?",
