@@ -75,7 +75,7 @@
               "options": [ "Tiranía", "Libertad" ]
             }
         },
-       "ca":
+      "ca":
         {
           "about":
             {
@@ -106,6 +106,105 @@
             {
               "question": "Vols que hi hagi tirania o llibertat?",
               "options": [ "Tirania", "Llibertat" ]
+            }
+        },
+      "eu":
+        {
+          "about":
+            {
+              "title": "Referéndum sobre la libertad 2018",
+              "description": "Consulta de prueba para comprobar el sistema antes del lanzamiento",
+              "dates": 
+                {
+                  "from": {"day":"1", "month": "Sep", "year": "2018"},
+                  "to": {"day":"1", "month":"Dic","year":"2018"}
+                },
+              "requirements": { "values": ["al menos 18 años","nacionalidad española","DNI en vigor"] }
+            },
+          "register": 
+            {
+              "sampleLink":"assets/img/dni-sample.svg",
+              "instructions": 
+                { 
+                  "specific": "Introduce las tres líneas del código que aparece en la parte trasera de tu DNI, sin olvidar ningún carácter. También puedes tomar una fotografía con tu móvil." 
+                },
+              "inputs": 
+                [
+                  { "msg":"Primera línea de datos del DNI","length":"30" },
+                  { "msg":"Segunda línea de datos del DNI","length":"30" },
+                  { "msg":"Tercera línea de datos del DNI","length":"30" }
+                ]
+            },
+          "vote":
+            {
+              "question": "¿Quieres que haya tiranía o libertad?",
+              "options": [ "Tiranía", "Libertad" ]
+            }
+        },
+      "gl":
+        {
+          "about":
+            {
+              "title": "Referéndum sobre la libertad 2018",
+              "description": "Consulta de prueba para comprobar el sistema antes del lanzamiento",
+              "dates": 
+                {
+                  "from": {"day":"1", "month": "Sep", "year": "2018"},
+                  "to": {"day":"1", "month":"Dic","year":"2018"}
+                },
+              "requirements": { "values": ["al menos 18 años","nacionalidad española","DNI en vigor"] }
+            },
+          "register": 
+            {
+              "sampleLink":"assets/img/dni-sample.svg",
+              "instructions": 
+                { 
+                  "specific": "Introduce las tres líneas del código que aparece en la parte trasera de tu DNI, sin olvidar ningún carácter. También puedes tomar una fotografía con tu móvil." 
+                },
+              "inputs": 
+                [
+                  { "msg":"Primera línea de datos del DNI","length":"30" },
+                  { "msg":"Segunda línea de datos del DNI","length":"30" },
+                  { "msg":"Tercera línea de datos del DNI","length":"30" }
+                ]
+            },
+          "vote":
+            {
+              "question": "¿Quieres que haya tiranía o libertad?",
+              "options": [ "Tiranía", "Libertad" ]
+            }
+        },
+      "en":
+        {
+          "about":
+            {
+              "title": "Referéndum sobre la libertad 2018",
+              "description": "Consulta de prueba para comprobar el sistema antes del lanzamiento",
+              "dates": 
+                {
+                  "from": {"day":"1", "month": "Sep", "year": "2018"},
+                  "to": {"day":"1", "month":"Dic","year":"2018"}
+                },
+              "requirements": { "values": ["al menos 18 años","nacionalidad española","DNI en vigor"] }
+            },
+          "register": 
+            {
+              "sampleLink":"assets/img/dni-sample.svg",
+              "instructions": 
+                { 
+                  "specific": "Introduce las tres líneas del código que aparece en la parte trasera de tu DNI, sin olvidar ningún carácter. También puedes tomar una fotografía con tu móvil." 
+                },
+              "inputs": 
+                [
+                  { "msg":"Primera línea de datos del DNI","length":"30" },
+                  { "msg":"Segunda línea de datos del DNI","length":"30" },
+                  { "msg":"Tercera línea de datos del DNI","length":"30" }
+                ]
+            },
+          "vote":
+            {
+              "question": "¿Quieres que haya tiranía o libertad?",
+              "options": [ "Tiranía", "Libertad" ]
             }
         }
     }
