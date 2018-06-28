@@ -21,7 +21,7 @@
       "name":"Plataforma Democracia Abierta",
       "email":"mail@email.com",
       "link": "http://www.google.com",
-      "logo": "none"
+      "logo": false
     },
   "identification":
     {
