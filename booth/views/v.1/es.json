@@ -193,7 +193,7 @@
 			"values": {
 				"found": "Voto confirmado",
   				"unknown": "Voto no localizado",
-				"error": "Voto no localizado (error)",
+				"error": "Voto no localizado",
 				"uncast": "Voto no emitido"
 			}
 		},
