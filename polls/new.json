@@ -1,8 +1,8 @@
 {
   "poll":
     {
-      "id":"",
-      "certkey":"",
+      "id":"3e982818",
+      "certkey":"03132061f8fb58750e62d214bf1e34d894a3a133134c7e6843a16ba3743e982818",
       "starts":"1535734800000",
       "ends":"1543597200000",
       "question":"¿Te gusta más el azul, el rojo o el amarillo?",
@@ -14,7 +14,7 @@
         },
       "open": false,
       "adminkey": "025cc23ab1d64668e54acbfcf911806666a553968ee3322ca1829037e40b46c0e9",
-      "approval": ""
+      "approval": "3044022074bcc3d8430b63708624c664a4b34fa99fc486ae4857caf5b5914142d4109fb402201c67aff199316774d8f97f5ed167b19e7cc098d158a4e192376e6fc7407e56fd"
     },
   "country":"ES",
   "sponsor":
