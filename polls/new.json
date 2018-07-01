@@ -1,19 +1,20 @@
 {
   "poll":
     {
-      "id":"a0979224",
-      "certkey":"02c0897c3af390948898f3155d9042d0dd6a5d937f1a9066e6ec169437a0979224",
+      "id":"",
+      "certkey":"",
       "starts":"1535734800000",
       "ends":"1543597200000",
-      "question":"¿Quieres que haya tiranía o libertad?",
+      "question":"¿Te gusta más el azul, el rojo o el amarillo?",
       "values": 
         { 
-          "00": "Tiranía", 
-          "01": "Libertad"
+          "00": "Azul", 
+          "01": "Rojo",
+          "02": "Amarillo
         },
       "open": false,
       "adminkey": "025cc23ab1d64668e54acbfcf911806666a553968ee3322ca1829037e40b46c0e9",
-      "approval":" 304502204ac4ff90c79fe486915dc2301391e6f5a7ccbf4286912598982d8f10520f283a022100ba8d281ea3dbe3801b3d9b87d44a5ec67ce311a98699d6a6be032215dbe4db9b"
+      "approval":" "
     },
   "country":"ES",
   "sponsor":
