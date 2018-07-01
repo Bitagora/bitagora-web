@@ -1,8 +1,8 @@
 {
   "poll":
     {
-      "id":"",
-      "certkey":"",
+      "id":"38508773",
+      "certkey":"02c0d851656d3c20992ed84ffa4a4c3d56f304bbfb52aa0e12c78aa9a238508773",
       "starts":"1535734800000",
       "ends":"1543597200000",
       "question":"¿Qué color te gusta más?",
@@ -14,7 +14,7 @@
         },
       "open": false,
       "adminkey": "025cc23ab1d64668e54acbfcf911806666a553968ee3322ca1829037e40b46c0e9",
-      "approval": ""
+      "approval": "3045022100b6ff92af8e5421299088acbeecd4d7618e2216d20d38ea1173c5cea6951890a002205f9e5ca2551a2a86944339a04d65aad1de6a9067f1554ca2755b694c135bc63e"
     },
   "country":"ES",
   "sponsor":
