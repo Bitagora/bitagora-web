@@ -47,12 +47,12 @@
         {
           "about":
             {
-              "title": "Referéndum sobre la libertad 2018",
+              "title": "Referéndum de prueba 2018",
               "description": "Consulta de prueba para comprobar el sistema antes del lanzamiento",
               "dates": 
                 {
                   "from": {"day":"1", "month": "Sep", "year": "2018"},
-                  "to": {"day":"1", "month":"Dic","year":"2018"}
+                  "to": {"day":"2", "month":"Dic","year":"2018"}
                 },
               "requirements": { "values": ["al menos 18 años","nacionalidad española","DNI en vigor"] }
             },
@@ -80,12 +80,12 @@
         {
           "about":
             {
-              "title": "Referèndum sobre la llibertat 2018",
+              "title": "Referèndum de prova 2018",
               "description": "Consulta de prova per comprovar el sistema abans del llançament",
               "dates": 
                 {
                   "from": {"day":"1", "month": "Set", "year": "2018"},
-                  "to": {"day":"1", "month":"Des","year":"2018"}
+                  "to": {"day":"2", "month":"Des","year":"2018"}
                 },
               "requirements": { "values": ["al menys 18 anys","nacionalitat espanyola","DNI en vigor"] }
             },
@@ -105,20 +105,20 @@
             },
           "vote":
             {
-              "question": "Vols que hi hagi tirania o llibertat?",
-              "options": [ "Tirania", "Llibertat" ]
+              "question": "Quin color t'agrada més?",
+              "options": [ "Blau", "Vermell", "Groc" ]
             }
         },
       "eu":
         {
           "about":
             {
-              "title": "Referéndum sobre la libertad 2018",
+              "title": "Referéndum de prueba 2018",
               "description": "Consulta de prueba para comprobar el sistema antes del lanzamiento",
               "dates": 
                 {
                   "from": {"day":"1", "month": "Sep", "year": "2018"},
-                  "to": {"day":"1", "month":"Dic","year":"2018"}
+                  "to": {"day":"2", "month":"Dic","year":"2018"}
                 },
               "requirements": { "values": ["al menos 18 años","nacionalidad española","DNI en vigor"] }
             },
@@ -138,20 +138,20 @@
             },
           "vote":
             {
-              "question": "¿Quieres que haya tiranía o libertad?",
-              "options": [ "Tiranía", "Libertad" ]
+              "question": "¿Qué color te gusta más?",
+              "options": [ "Azul", "Rojo", "Amarillo" ]
             }
         },
       "gl":
         {
           "about":
             {
-              "title": "Referéndum sobre la libertad 2018",
+              "title": "Referéndum de prueba 2018",
               "description": "Consulta de prueba para comprobar el sistema antes del lanzamiento",
               "dates": 
                 {
                   "from": {"day":"1", "month": "Sep", "year": "2018"},
-                  "to": {"day":"1", "month":"Dic","year":"2018"}
+                  "to": {"day":"2", "month":"Dic","year":"2018"}
                 },
               "requirements": { "values": ["al menos 18 años","nacionalidad española","DNI en vigor"] }
             },
@@ -171,20 +171,20 @@
             },
           "vote":
             {
-              "question": "¿Quieres que haya tiranía o libertad?",
-              "options": [ "Tiranía", "Libertad" ]
+              "question": "¿Qué color te gusta más?",
+              "options": [ "Azul", "Rojo", "Amarillo" ]
             }
         },
       "en":
         {
           "about":
             {
-              "title": "Referéndum sobre la libertad 2018",
+              "title": "Referéndum de prueba 2018",
               "description": "Consulta de prueba para comprobar el sistema antes del lanzamiento",
               "dates": 
                 {
                   "from": {"day":"1", "month": "Sep", "year": "2018"},
-                  "to": {"day":"1", "month":"Dic","year":"2018"}
+                  "to": {"day":"2", "month":"Dic","year":"2018"}
                 },
               "requirements": { "values": ["al menos 18 años","nacionalidad española","DNI en vigor"] }
             },
@@ -204,8 +204,8 @@
             },
           "vote":
             {
-              "question": "¿Quieres que haya tiranía o libertad?",
-              "options": [ "Tiranía", "Libertad" ]
+              "question": "¿Qué color te gusta más?",
+              "options": [ "Azul", "Rojo", "Amarillo" ]
             }
         }
     }
