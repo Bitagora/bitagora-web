@@ -1,8 +1,8 @@
 {
   "poll":
     {
-      "id":"",
-      "certkey":"",
+      "id":"f765665b",
+      "certkey":"02c92b8da439d2739fcb56e756fa626c954b9b5699fbba665dc91ad017f765665b",
       "starts":"1535734800000",
       "ends":"1543597200000",
       "question":"¿Quieres café o te?",
@@ -13,7 +13,7 @@
         },
       "open": true,
       "adminkey": "025cc23ab1d64668e54acbfcf911806666a553968ee3322ca1829037e40b46c0e9",
-      "approval":""
+      "approval":"3044022002fad4dface8ff6327207724619dacb6bba68da8d82d9bd33317137014a3c63402206e8946833c16cd0920feddfc9c9cff81d148bd80f6c7b436155df268b888044f"
     },
   "country":"ES",
   "sponsor":
