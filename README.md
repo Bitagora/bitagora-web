@@ -30,8 +30,8 @@ Read our [privacy policy](static/en/privacy.md).
   <hr>
   <p style="margin-top:80px">Bitagora has been developed using</p>
   <a href="https://nodejs.org/" target="_blank"><img src="https://bitagora.cc/assets/img/node-js-logo.png" width="100" alt="Node.js"></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://bitagora.cc/assets/img/docker-logo.png" width="100" alt="Docker"></a>
-  <a href="https://www.hyperledger.org/projects/sawtooth" target="_blank"><img src="https://bitagora.cc/assets/img/sawtooth-logo.png" width="100" alt="Hyperledger/Sawtooth"></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://bitagora.cc/assets/img/docker-logo.png" width="110" alt="Docker"></a>
+  <a href="https://www.hyperledger.org/projects/sawtooth" target="_blank"><img src="https://bitagora.cc/assets/img/sawtooth-logo.png" width="140" alt="Hyperledger/Sawtooth"></a>
 </div>
 
 
