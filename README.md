@@ -23,3 +23,10 @@ Read our [terms of service](static/en/terms.md).
 
 ## Privacy
 Read our [privacy policy](static/en/privacy.md).
+
+Bitagora has been developed using 
+
+![Node.js](https://bitagora.cc/assets/img/node-js-logo.png)
+![Docker](https://bitagora.cc/assets/img/docker-logo.png)
+![Hyperledger Sawtooth](https://bitagora.cc/assets/img/sawtooth-logo.png)
+
