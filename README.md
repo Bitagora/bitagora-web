@@ -26,7 +26,10 @@ Read our [privacy policy](static/en/privacy.md).
 
 Bitagora has been developed using 
 
-![Node.js](https://bitagora.cc/assets/img/node-js-logo.png)
-![Docker](https://bitagora.cc/assets/img/docker-logo.png)
-![Hyperledger Sawtooth](https://bitagora.cc/assets/img/sawtooth-logo.png)
+<p align="center">
+  <img src="https://bitagora.cc/assets/img/node-js-logo.png" width="150" title="hover text">
+  <img src="https://bitagora.cc/assets/img/docker-logo.png" width="150" alt="accessibility text">
+  <img src="https://bitagora.cc/assets/img/sawtooth-logo.png" width="150" alt="accessibility text">
+</p>
+
 
