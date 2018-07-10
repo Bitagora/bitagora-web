@@ -26,9 +26,8 @@ Read our [privacy policy](static/en/privacy.md).
 
 
 
-<div align="center">
+<div align="center" style="margin-top: 30px">
   <p>Bitagora has been developed using</p>
-  <br />
   <a href="https://nodejs.org/" target="_blank"><img src="https://bitagora.cc/assets/img/node-js-logo.png" width="150" alt="Node.js"></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://bitagora.cc/assets/img/docker-logo.png" width="150" alt="Docker"></a>
   <a href="https://www.hyperledger.org/projects/sawtooth" target="_blank"><img src="https://bitagora.cc/assets/img/sawtooth-logo.png" width="150" alt="Hyperledger/Sawtooth"></a>
