@@ -3,7 +3,7 @@ layout: default
 ---
 # Bitagora Node
 
-![version](https://img.shields.io/badge/version-0.0.2-green.svg) 
+![version](https://img.shields.io/badge/version-0.1.0-green.svg) 
 ![Hex.pm](https://img.shields.io/hexpm/l/plug.svg)
 
 
@@ -166,12 +166,12 @@ exit
 
 Bitagora Node is open-source software. It is provided free of charge without
 any guarantee of support. If you need help or assistance, please open an issue
-in the [GitHub repo](https://github.com/Bitagora/bitagora-node/issues).
+in the [GitHub repo](https://github.com/Bitagora/bitagora-core/issues).
 
 ## Source code
 
 The source code for the Bitagora Node software is available in the
-[bitagora-node repo](https://github.com/bitagora/bitagora-node).
+[bitagora-core repo](https://github.com/bitagora/bitagora-core).
 
 ## Documentation
 
