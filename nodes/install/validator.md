@@ -51,6 +51,8 @@ for more recent distributions as well:
 
 - [Ubuntu](./ubuntu.md)
 
+PLEASE NOTE THAT CURRENTLY THERE ARE NO BITAGORA NETWORKS DEPLOYED, SO YOU WILL NOT BE ABLE TO LINK YOUR NODE WITH ANY NETWORK BY FOLLOWING THESE INSTRUCTIONS. IF YOU WANT TO DEPLOY A BITAGORA NETWORK, PLEASE GET IN TOUCH WITH US AT MAIL@BITAGORA.CC. 
+
 ## Usage
 
 The different components will be installed in Docker containers. These containers communicate from the following ports, which should be left available:
