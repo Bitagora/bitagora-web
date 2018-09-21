@@ -3,6 +3,8 @@ layout: default
 ---
 ## Ubuntu installation
 
+***PLEASE NOTE THAT CURRENTLY THERE ARE NO BITAGORA NETWORKS DEPLOYED, SO YOU WILL NOT BE ABLE TO LINK YOUR NODE WITH ANY NETWORK BY FOLLOWING THESE INSTRUCTIONS. IF YOU WANT TO DEPLOY A BITAGORA NETWORK, PLEASE GET IN TOUCH WITH US AT MAIL@BITAGORA.CC ***
+
 ***When trying these instructions, remember to use 'sudo' before commands if your user doesn't 
 have administrator access to the shell.**
 
